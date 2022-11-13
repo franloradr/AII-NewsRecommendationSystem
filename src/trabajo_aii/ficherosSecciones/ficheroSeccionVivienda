@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<title>Vivienda: Últimas noticias sobre vivienda, alquileres, hipotecas | OKDIARIO</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Últimas noticias sobre Vivienda. Sigue la última hora del sector inmobiliario y toda la actualidad sobre compra, venta y alquiler de viviendas en OKDIARIO."/>
+<link rel="canonical" href="https://okdiario.com/economia/vivienda" />
+<link rel="next" href="https://okdiario.com/economia/vivienda/page/2" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Vivienda: Últimas noticias sobre vivienda, alquileres, hipotecas | OKDIARIO" />
+<meta property="og:description" content="Últimas noticias sobre Vivienda. Sigue la última hora del sector inmobiliario y toda la actualidad sobre compra, venta y alquiler de viviendas en OKDIARIO." />
+<meta property="og:url" content="https://okdiario.com/economia/vivienda" />
+<meta property="og:site_name" content="OKDIARIO" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Últimas noticias sobre Vivienda. Sigue la última hora del sector inmobiliario y toda la actualidad sobre compra, venta y alquiler de viviendas en OKDIARIO." />
+<meta name="twitter:title" content="Vivienda: Últimas noticias sobre vivienda, alquileres, hipotecas | OKDIARIO" />
+<meta name="twitter:site" content="@okdiario" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://okdiario.com/#organization","name":"OKDIARIO","url":"https://okdiario.com/","sameAs":["https://www.facebook.com/okdiario","https://www.instagram.com/okdiario/","https://www.linkedin.com/company/okdiario","https://twitter.com/okdiario"],"logo":{"@type":"ImageObject","@id":"https://okdiario.com/#logo","url":"https://okdiario.com/img/2016/05/logo.jpg","width":413,"height":413,"caption":"OKDIARIO"},"image":{"@id":"https://okdiario.com/#logo"}},{"@type":"WebSite","@id":"https://okdiario.com/#website","url":"https://okdiario.com/","name":"OKDIARIO","publisher":{"@id":"https://okdiario.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://okdiario.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://okdiario.com/economia/vivienda#webpage","url":"https://okdiario.com/economia/vivienda","inLanguage":"es","name":"Vivienda: \u00daltimas noticias sobre vivienda, alquileres, hipotecas | OKDIARIO","isPartOf":{"@id":"https://okdiario.com/#website"},"description":"\u00daltimas noticias sobre Vivienda. Sigue la \u00faltima hora del sector inmobiliario y toda la actualidad sobre compra, venta y alquiler de viviendas en OKDIARIO."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="OKDIARIO &raquo; Vivienda RSS de la categoría" href="https://okdiario.com/economia/vivienda/feed" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://okdiario.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property="fb:pages" content="376573025871689" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="apple-touch-icon" sizes="57x57" href="/img/i/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/img/i/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/i/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/i/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/i/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/i/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/i/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/i/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/i/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/img/i/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/i/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/img/i/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/i/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/img/i/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+    <script src="https://contributor.google.com/scripts/6baf8400b4b60141/loader.js"></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+    if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},t=Date.now||function(){return+new Date},u=function(a,b){function c(){}c.prototype=b.prototype;a.m=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.j=function(a,c,g){for(var d=Array(arguments.length-2),e=2;e<arguments.length;e++)d[e-2]=arguments[e];return b.prototype[c].apply(a,
+    d)}};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var w=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^t()).toString(36)};var y=function(){this.a="";this.b=x},x={},z=function(a){var b=new y;b.a=a;return b};var A=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.b===x?b.a:"type_error:TrustedResourceUrl";if(null===n)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){n=b;break b}n=""}b=n;b&&a.setAttribute("nonce",b)};var B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,g){try{var h=a.a,k=a.a.createElement("SCRIPT");k.async=!0;A(k,b);h.head.appendChild(k);k.addEventListener("load",function(){e();d&&h.head.removeChild(k)});k.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,g):(d&&h.head.removeChild(k),g())})}catch(p){g()}};var D=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),E=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),aa=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ba=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},H=function(a){if(a.b.body&&!a.g){var b=
+    function(){F(a);l.setTimeout(function(){return G(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},F=function(a){for(var b=I(1,5),c=0;c<b;c++){var d=J(a);a.b.body.appendChild(d);a.c.push(d)}b=J(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=I(100,110).toString()+"%";b.style.zIndex=I(2147483544,2147483644).toString();b.style["background-color"]=K(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=K(0,10,0,10,0,10);b.style.display=
+    "flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=J(a);c.style.width=I(80,85).toString()+"%";c.style.maxWidth=I(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=a.f.a.createElement("IMG");d.className=w();d.src=D;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=J(a),g=J(a);g.style["font-weight"]="bold";g.textContent=E;var h=J(a);h.textContent=
+    aa;L(a,e,g);L(a,e,h);L(a,c,d);L(a,c,e);L(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=I(1,5);for(c=0;c<b;c++)d=J(a),a.b.body.appendChild(d),a.c.push(d)},L=function(a,b,c){for(var d=I(1,5),e=0;e<d;e++){var g=J(a);b.appendChild(g)}b.appendChild(c);c=I(1,5);for(d=0;d<c;d++)e=J(a),b.appendChild(e)},I=function(a,b){return Math.floor(a+Math.random()*(b-a))},K=function(a,b,c,d,e,g){return"rgb("+I(Math.max(a,0),Math.min(b,255)).toString()+","+I(Math.max(c,0),Math.min(d,255)).toString()+","+I(Math.max(e,0),Math.min(g,
+    255)).toString()+")"},J=function(a){a=a.f.a.createElement("DIV");a.className=w();return a},G=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(ca(a),F(a),l.setTimeout(function(){return G(a,b-1)},50))},ca=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:f(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var M=function(a,b,c){a=l.btoa(a+b);v(a,c)},da=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var fa=function(a,b,c,d,e){var g=ea(c),h=function(c){c.appendChild(g);l.setTimeout(function(){g?(0!==g.offsetHeight&&0!==g.offsetWidth?b():a(),g.parentNode&&g.parentNode.removeChild(g)):a()},d)},k=function(a){document.body?h(document.body):0<a?l.setTimeout(function(){k(a-1)},e):b()};k(3)},ea=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var N=null;var O=function(){},P="function"==typeof Uint8Array,Q=function(a,b){a.b=null;b||(b=[]);a.l=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||"array"==r(c)||P&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},R=[],S=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===R?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===R?a.c[b]=[]:c},U=function(a,b){var c=T;a.b||(a.b={});if(!a.b[b]){var d=S(a,b);d&&(a.b[b]=new c(d))}return a.b[b]};
+    O.prototype.h=P?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){if(!N){N={};for(var a=0;65>a;a++)N[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(a)}a=N;for(var c=[],d=0;d<this.length;d+=3){var e=this[d],g=d+1<this.length,h=g?this[d+1]:0,k=d+2<this.length,p=k?this[d+2]:0,ha=e>>2;e=(e&3)<<4|h>>4;h=(h&15)<<2|p>>6;p&=63;k||(p=64,g||(h=64));c.push(a[ha],a[e],a[h],a[p])}return c.join("")};try{return JSON.stringify(this.a&&this.a,V)}finally{Uint8Array.prototype.toJSON=
+    a}}:function(){return JSON.stringify(this.a&&this.a,V)};var V=function(a,b){return"number"!=typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};O.prototype.toString=function(){return this.a.toString()};var T=function(a){Q(this,a)};u(T,O);var W=function(a){Q(this,a)};u(W,O);var ia=function(a,b){this.g=new B(a);var c=U(b,11);c=z(S(c,4)||"");this.b=new ba(a,c,S(b,10));this.a=b;this.f=S(this.a,1);this.c=!1},X=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=z(S(b,4)||"");C(a.g,b,3,!1,c,function(){fa(function(){H(a.b);d(!1)},function(){d(!0)},S(a.a,12),S(a.a,5),S(a.a,3))})},ja=function(a){a.c||(M(a.f,"internal_api_load_with_sb",function(b,c,d){X(a,b,c,d)}),M(a.f,"internal_api_sb",function(){H(a.b)}),a.c=!0)};var Y=function(a){this.h=l.document;this.a=new ia(this.h,a);this.f=S(a,1);this.g=U(a,2);this.c=!1;this.b=a};Y.prototype.start=function(){try{ka(),ja(this.a),l.googlefc=l.googlefc||{},"callbackQueue"in l.googlefc||(l.googlefc.callbackQueue=[]),la(this)}catch(a){H(this.a.b)}};
+    var ka=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},la=function(a){var b=t();X(a.a,a.g.h(),function(){var c=l.btoa(a.f+"cached_js");(c=l[c])?(c=l.atob(c),c=3E5>Math.abs(b-parseInt(c,10))):c=!1;c||
+    (da(a.f,"internal_api_sb"),Z(a,S(a.b,9)))},function(b){b?Z(a,S(a.b,7)):Z(a,S(a.b,8))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__475an521in8a__",function(a){"function"==typeof l.atob&&(a=l.atob(a),a=new W(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+    window.__475an521in8a__("WyI2YmFmODQwMGI0YjYwMTQxIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4Vy1lVTlPQ1FhOG5ac0pUNXVubmwtVDljbXVOeWVFejFDQVUtbkxKejQwMkt4LXo2bUQwUVAydlpkRjZUR05nMVVWM0t1NFlTaWdLX2pWb05DciJdCiwyMCxudWxsLDEwMCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9sL0FHU0tXeFZsdExUR2NLQ2FFT3JLRzExcmR4dUx2aHJRVmRkTlNYcmhIZUFTZDZRNEE2WUdoTmZYOWVleHNPaU5zRlBUUDIxQlFib3loVzJORDVfOXRiank/YWJcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVc1loaHlIcVAwYTdMemo1ZnlmcFlYT2Z3Z2tFMVpMV1BUcDRma1Jock9JcmtBVjhKWHRCWkZhQ3hOQndDN2JYMDQ1MlhuYkRXbzY2eWlKNFJjP2FiXHUwMDNkMVx1MDAyNnNiZlx1MDAzZDEiLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9sL0FHU0tXeFd1N2gwbkMzWUdBN2lDNldlZ3NxQTAxT0p1Z0NyT1JYc0U1b3B5TW1kLWMxR05BdjVJVDk4RWJfVm00eHRhVjRtRXBMOWw3N0RWU0xtd0VaNV8/c2JmXHUwMDNkMiIsIk5tSmhaamcwTURCaU5HSTJNREUwTVFcdTAwM2RcdTAwM2QiLFtudWxsLG51bGwsbnVsbCwiaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vMGVtbi9mL3AvNmJhZjg0MDBiNGI2MDE0MS5qcz91c3FwXHUwMDNkQ0JBIl0KLCJkaXYtZ3B0LWFkIl0K");</script>
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Feed RSS de noticias nacionales e internacionales en OKDIARIO" href="https://okdiario.com/feed"/>
+
+<link href="https://okdiario.com/web/themes/v9/css/okdiario-v1.css?v=20190522" rel="stylesheet" type="text/css">
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- Config cookies -->
+<script type="text/javascript" src="https://okdiario.com/web/themes/v9/lib/gdpr-didomi-no-prebid.js?v=091"></script>
+
+<!-- Privacidad didomi -->
+<script type="text/javascript" id="spcloader" src="https://sdk.privacy-center.org/loader.js" async></script>
+<!-- Estilos cookies -->
+<style type="text/css">
+  /* Cartel consentimiento */
+  #didomi-notice{ width:100%; background-color: #f8f8f8 !important; box-shadow: 0 0 0 4px rgba(0,0,0,.05) !important; border-bottom: 1px solid rgba(0,0,0,.1) !important; }
+  .didomi-notice__interior-border{ display: block !important; max-width: 1500px !important; padding-top: 10px !important; margin: 0 auto !important; margin-bottom: 0 !important; }
+  .didomi-notice__interior-border .push-right{ margin-right: 0 !important; }
+  .didomi-notice__interior-border .cookies-title{ -webkit-text-fill-color: #333 !important; color: #333; font-size: 1.4em !important; line-height: 1.4em !important; }
+  #didomi-host p { margin-bottom: 10 !important;}
+  .didomi-notice__interior-border .cookies-text{ line-height: 1.5em !important; font-size: 1.1em !important; -webkit-text-fill-color: #666 !important; color: #666 !important; margin-top: 5px !important; }
+  .didomi-notice__interior-border .cookies-text a{ -webkit-text-fill-color: #0097e7 !important; color: #0097e7 !important; cursor: pointer !important; }
+  .didomi-notice__interior-border #buttons { float: right; margin-bottom: 10px !important }
+  .didomi-notice__interior-border .highlight-button { -webkit-text-fill-color: #fff !important; color: #fff !important; background-color: #000 !important; margin: 0 5px !important; text-decoration: none !important; padding: 5px 20px !important; border: none !important; text-transform: uppercase !important; font-size: 13px !important; min-width: auto !important; }
+  .didomi-notice__interior-border .standard-button { -webkit-text-fill-color: #666 !important; border-color: transparent !important; background-color: transparent !important; color: #666 !important; text-transform: none !important; font-size: 12px !important; font-weight: 400 !important}
+  @media(max-width:1024px){
+    .didomi-notice__interior-border { border-color: transparent !important; }
+    .didomi-notice__interior-border .cookies-text{ line-height: 1.5em !important; font-size: 1.25em !important; -webkit-text-fill-color: #666 !important; color: #666 !important; }
+    #didomi-host p { margin-bottom: 0 !important;}
+    #didomi-host .didomi-mobile #didomi-notice #buttons.multiple, #didomi-host .didomi-mobile #didomi-notice #buttons.single, #didomi-host .didomi-mobile #didomi-notice #buttons.single a[role=button] { width: auto !important; }
+  }
+  @media(max-width:767px){
+    #didomi-host p { margin-bottom: 0 !important;}
+    .didomi-notice__interior-border .cookies-text { font-size: 1.25em !important; }
+    .didomi-notice__interior-border #buttons { float: right; margin-bottom: 20px !important }
+    #didomi-host .didomi-mobile #didomi-notice #buttons { margin-top: 10px !important; }
+  }
+  /* Popup configuración */
+  .didomi-consent-popup__dialog { max-height: 700px !important; overflow: auto !important; }
+  #didomi-consent-popup { background-color: rgba(0,0,0,.5) !important; }
+  .didomi-consent-popup-header { padding: 30px 50px 0 !important; }
+  .didomi-consent-popup-title span { text-transform: uppercase !important; font-weight: 700 !important; font-family: Arial !important; font-size: 16px !important; text-rendering: optimizeLegibility !important; -webkit-font-smoothing: antialiased !important; line-height: 1.5em !important; }
+  .didomi-consent-popup-preferences { padding: 0px 30px !important; }
+  .didomi-consent-popup-body__title { font-family: Arial !important };
+  #didomi-host .didomi-consent-popup__exterior-border { border: none !important; border-radius: 0 !important; }
+  #didomi-host .didomi-consent-popup__exterior-border { border-color: transparent !important; }
+  #didomi-host .didomi-consent-popup__dialog { border: none !important; border-radius: 0 !important; }
+  .didomi-consent-popup-header { padding: 50px 50px 0 !important; }
+  .didomi-consent-popup-partner a { -webkit-text-fill-color: #0097e7 !important; color: #0097e7 !important; cursor: pointer !important; }
+  .didomi-components-radio svg { display: none; }
+  #didomi-host .didomi-components-radio__option.didomi-components-radio__option--agree { background-color: #000000 !important; -webkit-text-fill-color: #fff !important; }
+  #didomi-host .didomi-consent-popup-footer .didomi-consent-popup-actions * { -webkit-text-fill-color: #fff !important; }
+</style>
+
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://okdiario.com/web/themes/v9/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+window.didomiOnReady = window.didomiOnReady || [];
+window.didomiOnReady.push(function (Didomi) {
+ // Check user consent
+ var comScoreConsent = false;
+ var isComscoreConsentPresent = Didomi.getUserConsentStatusForVendor(77);
+
+ // Embed ComScore
+ window._comscore = window._comscore || [];
+
+  if(isComscoreConsentPresent === undefined){
+    window._comscore.push({ c1: "2", c2: "20643943"});
+  }else{
+   if (
+     !Didomi.isConsentRequired()
+     || isComscoreConsentPresent  === true
+   ) {
+     comScoreConsent = true;
+   }
+   window._comscore.push({ c1: "2", c2: "20643943",  cs_ucfr: comScoreConsent ? "1" : "0" });
+  }
+
+ (function() {
+   var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+   el.parentNode.insertBefore(s, el);
+ })();
+});
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=20643943&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67280020-1"></script>
+<script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-67280020-1');
+  gtag('config', 'AW-865277086');
+</script>
+<!-- End Analytics Tag -->
+
+<!-- DFP TAGS - 15/01/2018 -->
+<script>
+            function detectDevice() {
+                windowWidth = window.innerWidth;
+                var device = 'desktop';
+
+                if(windowWidth < 768){ //mobile
+                    device = 'mobile';
+                }else if(windowWidth >= 768 && windowWidth <= 1024) {
+                    device = 'tablet';
+                }
+                return device;
+            }
+        </script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+        <script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script><script>
+                if (detectDevice() == 'mobile') {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_top1', ['fluid', [300, 100], [320, 50], [320, 100]], 'top1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_right1', [[300, 250], 'fluid', [300, 300], [300, 600]], 'right1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_right2', [[300, 250], 'fluid', [300, 300], [300, 600]], 'right2').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_right3', [[300, 300], [300, 600], [300, 250], 'fluid'], 'seccion_right3').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_bottom', ['fluid', [300, 100], [320, 50], [320, 100]], 'bottom').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_sticky', [[300, 100], [320, 100], [320, 50]], 'seccion_sticky').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/m.okdiario.com/seccion_x01', 'x01').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/m.okdiario.com/seccion_intext1', 'intext1').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/m.okdiario.com/seccion_intext2', 'intext2').addService(googletag.pubads());
+                        googletag.pubads().disableInitialLoad();
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.pubads().setTargeting('metatag', []).setTargeting('section', ['economia']).setTargeting('subsection', ['vivienda']);
+                        googletag.enableServices();
+                    });
+                }
+                else if (detectDevice() == 'tablet') {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_top1', [[728, 90]], 'top1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right1', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right2', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right2').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_bottom', [[728, 90]], 'bottom').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_x01', 'x01').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext1', 'intext1').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext2', 'intext2').addService(googletag.pubads());
+                        googletag.pubads().disableInitialLoad();
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.pubads().setTargeting('metatag', []).setTargeting('section', ['economia']).setTargeting('subsection', ['vivienda']);
+                        googletag.enableServices();
+                    });
+                }
+                else {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_top1', [[980, 90], [728, 90], [980, 250], [970, 90], [970, 250], [990, 90], [990, 250]], 'top1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_sky-derecha', [[160, 600], [120, 600], [120, 1000], [120, 800], [320, 1000]], 'sky-derecha').addService(googletag.pubads());
+                        
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right1', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right2', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right2').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_bottom', [[980, 90], [728, 90], [980, 250], [970, 90], [970, 250], [990, 90], [990, 250]], 'bottom').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_x01', 'x01').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext1', 'intext1').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext2', 'intext2').addService(googletag.pubads());
+                        googletag.pubads().disableInitialLoad();
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.pubads().setTargeting('metatag', []).setTargeting('section', ['economia']).setTargeting('subsection', ['vivienda']);
+                        googletag.enableServices();
+                    });
+                }
+            </script>
+
+<!-- IDALGO -->
+<script type="text/javascript" src="https://okdiario.idalgo-hosting.com/r/jil" async="true"></script>
+<!-- END IDALGO -->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '223156934992982');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=223156934992982&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!--<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://okdiario.com/",
+"name": "OKDIARIO"
+}
+</script>-->
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+ <script>
+   var OneSignal = window.OneSignal || [];
+   OneSignal.push(["init", {
+     appId: "2a7095c5-815a-4f06-b6a7-270a599e9c9c",
+     autoRegister: true,
+     notifyButton: { enable: false },
+     welcomeNotification: { disable: true },
+     safari_web_id: "web.onesignal.auto.49809676-9f7f-4916-aef3-fd94958742a1",
+     promptOptions: {
+        /* actionMessage limited to 90 characters */
+        actionMessage: "¿Quieres que OKDIARIO te mantenga informado de las noticias más destacadas de cada día--?",
+        /* acceptButtonText limited to 15 characters */
+        acceptButtonText: "ACEPTAR",
+        /* cancelButtonText limited to 15 characters */
+        cancelButtonText: "NO, GRACIAS"
+      }
+   }]);
+ </script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js').then(function(reg){
+                    console.log("Service Worker Registered", reg);
+                })
+                .catch(function(err) {
+                    console.log("Service Worker Failed to Register", err);
+                })
+        }
+    </script>
+</head>
+
+<body class="archive category category-vivienda category-15 economia ">
+
+
+<div id="page" class="all site">
+  <div id="header">
+    <aside class="mega">
+      <div id='top1' style="margin: 0 auto; height: auto;">
+        <script>
+          googletag.cmd.push(function() { googletag.display('top1'); });
+        </script>
+      </div>
+    </aside>
+    <!-- Nueva cabecera. 20/03/2019-->
+    <header id="okdiario-cabecera" class="okdiario-cabecera">
+<div class="okdiario-cabecera-interior">
+  <div class="okdiario-cabecera-superior">
+    <div class="okdiario-cabecera-superior-interior">
+
+      <div class="okdiario-cabecera-superior-izquierda">
+        <!--START Widget Destacados-->
+         <div class="okdiario-cabecera-destacados">
+    <span class="okdiario-destacados-title">Destacados:</span>
+    <div class="okdiario-destacados-container"><ul id="okdiario-destacados" class="okdiario-destacados"><li id="menu-item-4204313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4204313"><a href="https://okdiario.com/happyfm/amar-siempre-adriana-torrebejano-llega-serie-interpretar-lourdes-ordonez-4213110">Amar es para siempre</a></li>
+<li id="menu-item-4215298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4215298"><a href="https://okdiario.com/deportes/real-madrid-valencia-directo-partido-playoffs-acb-liga-endesa-2019-4214945">Real Madrid &#8211; Valencia</a></li>
+<li id="menu-item-4212328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4212328"><a href="https://okdiario.com/deportes/holanda-inglaterra-hora-donde-ver-partido-liga-naciones-4212178">Holanda &#8211; Inglaterra</a></li>
+<li id="menu-item-4195732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4195732"><a href="https://okdiario.com/espana/concejal-del-psoe-canarias-sus-alumnos-eso-ninos-hay-que-castrarlos-nacer-4211669">PSOE</a></li>
+<li id="menu-item-4212040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4212040"><a href="https://okdiario.com/loteria/primitiva-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212883">Primitiva</a></li>
+<li id="menu-item-4212179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4212179"><a href="https://okdiario.com/loteria/cupon-diario-super-once-7-39-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212917">ONCE</a></li>
+<li id="menu-item-4200602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4200602"><a href="https://okdiario.com/loteria/loteria-nacional-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212897">Lotería Nacional</a></li>
+<li id="menu-item-4201783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4201783"><a href="https://okdiario.com/loteria/bonoloto-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212850">Bonoloto</a></li>
+<li id="menu-item-4042422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4042422"><a href="https://okdiario.com/deportes/federer-nadal-hora-donde-ver-semifinales-roland-garros-4213399">Federer &#8211; Nadal</a></li>
+<li id="menu-item-4194278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4194278"><a href="https://okdiario.com/television/supervivientes-2019-chelo-isabel-o-dakota-quien-prefieres-que-vaya-4211548">Supervivientes 2019</a></li>
+<li id="menu-item-4198003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4198003"><a href="https://okdiario.com/deportes/mercado-fichajes-2019-ultima-hora-fichajes-rumores-traspasos-hoy-directo-4210130">Mercado de fichajes</a></li>
+<li id="menu-item-4195057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4195057"><a href="https://okdiario.com/deportes/roland-garros-2019-resultados-partidos-hoy-jueves-6-junio-4214660">Roland Garros</a></li>
+<li id="menu-item-4195062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4195062"><a href="https://okdiario.com/horoscopo/horoscopo-hoy-6-junio-2019-4188953">Horóscopo</a></li>
+<li id="menu-item-4215924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4215924"><a href="https://okdiario.com/deportes/islas-feroe-espana-hora-donde-ver-partido-fase-clasificacion-eurocopa-2020-4212925">Islas Feroe – España</a></li>
+</ul></div>    <div class="okdiario-destacados-dropdown-top">
+        <span class="okdiario-destacados-dropdown-top-title"><a>Más <i></i></a></span>
+        <div class='okdiario-destacados-dropdown-container'><ul class='okdiario-destacados-dropdown empty'></ul></div>    </div>
+</div>
+ 
+        <!--END Widget Destacados-->
+      </div>
+
+      <div class="okdiario-cabecera-superior-derecha">
+        <div class="okdiario-cabecera-fecha">
+          <time>
+          <span>7 Jun 2019</span>
+        </time>
+        </div>
+        <div class="okdiario-cabecera-actualizacion">
+          <time>
+            <span><strong>Actualizado</strong></span>
+            23:53 <abbr title="Central European Time">CET</abbr>
+          </time>
+
+        </div>
+        <ul>
+          <li id="okdiario-cabecera-newsletter">
+            <a href="/newsletter/" title="Newsletter" alt="Newsletter"><i class="icon-label"></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="okdiario-cabecera-inferior">
+    <div class="okdiario-cabecera-inferior-interior">
+      <nav class="navTop left">
+        <ul>
+          <li class="sections" id="sectionMenu">
+            <div class="nav-icon">
+              <a class="burger-box">
+                <div class="burger"></div>
+              </a>
+            </div>
+      <div class="menu-auxiliar">
+        <nav><div class="menu-menu-completo-container"><ul id="menu-extra" class=""><li id="menu-item-810296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-810296"><a href="https://okdiario.com">PORTADA</a></li>
+<li id="menu-item-126833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126833"><a href="https://okdiario.com/espana">España</a></li>
+<li id="menu-item-826131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-826131"><a href="https://okdiario.com/economia">Economía</a></li>
+<li id="menu-item-126810" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126810"><a href="https://okdiario.com/investigacion">Investigación</a></li>
+<li id="menu-item-1667311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1667311"><a href="https://okdiario.com/deportes">Deportes</a></li>
+<li id="menu-item-167202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167202"><a href="https://diariomadridista.okdiario.com">Diario Madridista</a></li>
+<li id="menu-item-126861" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126861"><a href="https://okdiario.com/internacional">Internacional</a></li>
+<li id="menu-item-126812" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126812"><a href="https://okdiario.com/sociedad">Sociedad</a></li>
+<li id="menu-item-126836" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126836"><a href="https://okdiario.com/cultura">Cultura</a></li>
+<li id="menu-item-126898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126898"><a href="https://okdiario.com/opinion">Opinión</a></li>
+<li id="menu-item-769936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-769936"><a href="https://look.okdiario.com">Look</a></li>
+<li id="menu-item-890193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890193"><a href="#">CANALES</a>
+<ul class="sub-menu">
+	<li id="menu-item-366162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366162"><a href="https://okdiario.com/television">Televisión</a></li>
+	<li id="menu-item-3910030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3910030"><a href="https://okdiario.com/cine">Cine</a></li>
+	<li id="menu-item-3910028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3910028"><a href="https://okdiario.com/series">Series</a></li>
+	<li id="menu-item-3910024" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3910024"><a href="https://okdiario.com/musica">Música</a></li>
+	<li id="menu-item-561571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561571"><a href="https://okdiario.com/curiosidades">Curiosidades</a></li>
+	<li id="menu-item-366177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366177"><a href="https://okdiario.com/recetas">Recetas de cocina</a></li>
+	<li id="menu-item-1059404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1059404"><a href="https://okdiario.com/howto">How To</a></li>
+	<li id="menu-item-366132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366132"><a href="https://okdiario.com/salud">Salud</a></li>
+	<li id="menu-item-3375507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3375507"><a href="https://okdiario.com/happyfm">HappyFM</a></li>
+</ul>
+</li>
+<li id="menu-item-126906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126906"><a href="https://okdiario.com/videos">Vídeos</a></li>
+<li id="menu-item-1815804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1815804"><a href="https://okdiario.com/ultimas-noticias">Últimas noticias</a></li>
+<li id="menu-item-3929349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3929349"><a href="https://okdiario.com/quienes-somos">Quiénes somos</a></li>
+</ul></div>        </nav>
+      </div>
+          </li>
+          <li class="search">
+            <a class="showSearchForm" >
+              <i class="icon-lupa"></i>
+            </a>
+            <div class="searchForm">
+              <form role="search" method="get" class="search-form" action="/buscador">
+                <label>
+                  <span class="searchIco"><i class="icon-lupa"></i></span>
+                  <input type="text" id="searchInput" name="q" value="" placeholder="¿Qué noticia estás buscando?">
+                </label>
+                <input type="submit" value="Buscar" id="submitSearchForm" class="hide">
+              </form>
+            </div>
+          </li>
+        </ul>
+      </nav>
+         <div id='okdiario' class='okdiario categoria '>
+                        <div class='okdiario-logo'>
+                   <!--<div itemtype='https://data-vocabulary.org/Breadcrumb' itemscope class='okdiario-logo'>--><a href="/">                      <span class="okdiario-logo-span" style="background:url('../web/themes/v9/css/_img/logo-okdiario.svg') center no-repeat;">OKDIARIO</span>
+             <!-- <span itemprop="title" class="okdiario-logo-span">OKDIARIO</span> -->
+           </a>
+         </div>                   </div>
+       <div id='okdiario-seccion' class='okdiario-seccion '>
+                          <a class='okdiario-seccion-url' title='Ir a Vivienda' href='/vivienda'><h1  class='okdiario-seccion-title'>Vivienda</h1></a>
+                        </div>    </div>
+  </div>
+<div id='okdiario-cabecera-secciones' class='okdiario-cabecera-secciones'>
+            <div class='okdiario-secciones-menu '>
+                <div class='okdiario-secciones-menu-interior'>
+                  <div class='okdiario-secciones-menu-navegacion '>
+                  <ul itemtype='https://schema.org/SiteNavigationElement' itemscope class='okdiario-secciones-menu-navegacion-ul' style='color:white'><li><a href='https://okdiario.com/economia/empresas'class=''>Empresas</a></li><li><a href='https://bolsa.okdiario.com/'class=''>Mercados</a></li><li><a href='https://okdiario.com/economia/cuentas-publicas'class=''>Cuentas Públicas</a></li><li><a href='https://okdiario.com/economia/inversion'class=''>Inversión</a></li><li><a href='https://okdiario.com/economia/empleo'class=''>Empleo</a></li><li><a href='https://okdiario.com/economia/emprendedores'class=''>Emprendedores</a></li><li><a href='https://okdiario.com/economia/vivienda'class='seccion-activa'>Vivienda</a></li><li><a href='https://okdiario.com/economia/turismo'class=''>Turismo</a></li></ul>
+                    </div>
+                </div>
+            </div></div>        <!--START Widget Directo-->
+          
+        <!--END Widget Directo-->
+
+      <!--START Widget Break news-->
+        
+      <!--END Widget  Break news-->
+
+
+</div>
+</header>
+</div>
+
+
+
+  
+<div id="archiveContent" data-section="economia">
+	<!-- Banners publi skys -->
+		<aside class="sky-banners">
+								<div class="sky-right">
+					<!-- /95562950/okdiario.com/seccion_sky-derecha -->
+				</div>
+			</aside>
+
+	<section class="content">
+							<div class="topic-information">
+				Sigue las últimas noticias de economía nacional e internacional: Ibex 35, empleo, impuestos, pensiones, presupuestos y la última hora de la bolsa.			</div>
+		
+		
+			
+				<article id="post-4200675" class="post-home-1 post-4200675 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-burbuja-inmobiliaria tag-vivienda">
+                    <a href="https://okdiario.com/economia/baleares-ya-recuperado-70-del-precio-vivienda-2007-mientras-que-navarra-solo-10-4200675" title="Baleares ya ha recuperado el 70% del precio de la vivienda de 2007 mientras que Navarra sólo el 10%" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/09/europapress_1629439_euskadi_-edifican_328_nuevas_viviendas_en_el_barrio_bilbaino_bolueta_que_estaran_finalizadas_en_2020-990x556.jpg" itemprop="contentUrl" alt="Viviendas de Neinor Homes">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Baleares ya ha recuperado el 70% del precio de la vivienda de 2007 mientras que Navarra sólo el 10%</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El precio medio de la vivienda en España ha subido un 25% desde mediados de 2014, según se desprende de un estudio realizado por Scope Group. No obstante, según...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4189478" class="post-home-2-left post-4189478 post type-post status-publish format-standard has-post-thumbnail category-economia category-video category-vivienda tag-burbuja-inmobiliaria tag-ladrillo tag-madrid tag-operacion-chamartin">
+                    <a href="https://okdiario.com/economia/mercado-puede-doblar-construccion-hasta-150-000-viviendas-ano-satisfacer-demanda-4189478" title="&#171;El mercado puede doblar la construcción hasta 150.000 viviendas al año para satisfacer la demanda&#187;" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/31/sima1-487x274.jpg" itemprop="contentUrl" alt="Juan Antonio Carrero">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">&#171;El mercado puede doblar la construcción hasta 150.000 viviendas al año para satisfacer la demanda&#187;</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Mario Moratalla</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Juan Carrero, director de Negocio de Avintia Inmobiliaria, es un buen ejemplo de la nueva oleada de promotores inmobiliarios españoles que, tras cruzar la travesía del desierto del sector...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4183347" class="post-home-2-right post-4183347 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-construccion tag-inmobiliaria tag-moodys tag-viviendas">
+                    <a href="https://okdiario.com/economia/ladrillo-caro-madrid-unica-capital-europea-donde-vivienda-mas-asequible-que-2005-4183347" title="¿Ladrillo caro? Madrid es la única capital europea donde la vivienda es más asequible que en 2005" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/30/paris-viviendas-487x274.jpg" itemprop="contentUrl" alt="París es la capital donde más ha subido la vivienda">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">¿Ladrillo caro? Madrid es la única capital europea donde la vivienda es más asequible que en 2005</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Mario Moratalla</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Aunque la sensación generalizada entre buena parte de la población es que la vivienda sobre todo en grandes ciudades y zonas de alta renta como País Vasco o Baleares...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4158638" class="post-home-3 post-4158638 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-cajamar tag-vivienda">
+                    <a href="https://okdiario.com/economia/cajamar-haya-real-estate-lanzan-1-175-viviendas-debajo-65-000-euros-4158638" title="Cajamar y Haya Real Estate lanzan 1.175 viviendas por debajo de 65.000 euros" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/08/16/cajamar-487x274.jpg" itemprop="contentUrl" alt="Oficina de Cajamar.">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Cajamar y Haya Real Estate lanzan 1.175 viviendas por debajo de 65.000 euros</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Cajamar y Haya Real Estate han lanzado una campaña con más de 3.800 inmuebles, de las que hasta 1.175 se pueden adquirir por menos de 65.000 euros, según han...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4153494" class="post-home-3 post-4153494 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-cbre tag-precio-vivienda">
+                    <a href="https://okdiario.com/economia/vivienda/precio-vivienda-crecera-hasta-4-2019-aunque-modera-segun-cbre-4153494" title="El precio de la vivienda crecerá hasta un 4% en 2019 aunque se modera, según CBRE" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/10/10/istock-648500220-487x274.jpg" itemprop="contentUrl" alt="Viviendas.">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El precio de la vivienda crecerá hasta un 4% en 2019 aunque se modera, según CBRE</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La subida del precio de la vivienda en 2019 continuará moderando, aunque para el año 2019 está previsto que crezca entre un 3-4 %, lejos del 6,6 % que...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4101067" class="post-home-3 post-4101067 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-alquiler tag-francina-armengol tag-islas-baleares">
+                    <a href="https://okdiario.com/economia/baleares-aprueba-ley-expropiar-pisos-que-lleven-mas-dos-anos-cerrados-4101067" title="Baleares aprueba una ley para expropiar pisos que lleven más de dos años cerrados" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/03/13/armengol-primarias-susana-487x274.jpg" itemprop="contentUrl" alt="La presidenta del Govern balear, Francina Armengol. (Foto: EFE)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Baleares aprueba una ley para expropiar pisos que lleven más de dos años cerrados</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El Gobierno balear de Francina Armengol ha aprobado este viernes una norma pionera en España por la que se expropiarán viviendas que lleven más de dos años cerradas sin...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4084838" class="post-home-4 post-4084838 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-sector-inmobiliario tag-tasadoras tag-vivienda">
+                    <a href="https://okdiario.com/economia/subida-precios-del-alquiler-frena-llegar-limite-capacidad-pago-inquilinos-4084838" title="La subida de precios del alquiler se frena al llegar al límite de la capacidad de pago de los inquilinos" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/10/10/istock-648500220-235x132.jpg" itemprop="contentUrl" alt="Viviendas.">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">La subida de precios del alquiler se frena al llegar al límite de la capacidad de pago de los inquilinos</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La Asociación Española de Análisis de Valor (AEV) ha realizado un informe sobre los precios de venta y alquiler de viviendas que señalan a que se ha producido una...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3925569" class="post-home-4 post-3925569 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-alquiler tag-ibi tag-irpf tag-vivienda">
+                    <a href="https://okdiario.com/economia/renta-2018-asi-deben-tributar-alquileres-propietarios-viviendas-3925569" title="Renta 2018: así deben tributar por los alquileres los propietarios de viviendas" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/02/19/como-rescindir-un-contrato-de-alquiler-235x132.jpg" itemprop="contentUrl" alt="Viviendas en alquiler">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Renta 2018: así deben tributar por los alquileres los propietarios de viviendas</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Los rendimientos del capital inmobiliario, son aquellos que derivan, entre otros, de los alquileres, esto es, si tenemos un inmueble alquilado los ingresos tenemos que imputarlos como rendimientos del...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4065469" class="post-home-4 post-4065469 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-idealista tag-precio-vivienda">
+                    <a href="https://okdiario.com/economia/madrid-lidera-subida-del-precio-vivienda-cataluna-estanca-4065469" title="Madrid lidera la subida del precio de la vivienda y Cataluña se estanca" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/03/14/espanoles-compran-menos-interior-235x132.jpg" itemprop="contentUrl" alt="Viviendas">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Madrid lidera la subida del precio de la vivienda y Cataluña se estanca</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Según el último índice de precios elaborado por Idealista, el precio medio del metro cuadrado de la vivienda usada en España se sitúa ya en los 1.709 euros en...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4053555" class="post-home-4 post-4053555 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-alquiler tag-inmobiliarias tag-venta tag-viviendas">
+                    <a href="https://okdiario.com/economia/vivienda-venta-alquiler-subira-muy-poco-2019-anos-fuertes-alzas-4053555" title="El precio de la vivienda de venta y alquiler moderará su alza en 2019 hasta el 4%" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/05/24/800px-casa_cerda-1-235x132.jpg" itemprop="contentUrl" alt="Edificio residencial en Murcia, propiedad de Trinitario Casanova">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El precio de la vivienda de venta y alquiler moderará su alza en 2019 hasta el 4%</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Mario Moratalla</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El mercado inmobiliario afloja un poco en este primer trimestre tras cuatro años de subida de precios y alquileres en las capitales. Tras Barcelona y Madrid, otras plazas como...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4049255" class="post-home-4 post-4049255 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-firma-hipotecas tag-hipotecas">
+                    <a href="https://okdiario.com/economia/firma-hipotecas-sobre-viviendas-frena-crecimiento-febrero-92-4049255" title="La firma de hipotecas sobre viviendas frena su crecimiento en febrero al 9,2%" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2015/10/Hipotecas-e1463590555898-235x132.jpg" itemprop="contentUrl" alt="V">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">La firma de hipotecas sobre viviendas frena su crecimiento en febrero al 9,2%</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Europa Press</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Con este repunte interanual, que es más de 13 puntos inferior al registrado en enero -cuando se registró un incremento del 22,5%-, la firma de hipotecas sobre viviendas encadena...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3976665" class="post-home-4 post-3976665 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-jaime-echegoyen tag-sareb">
+                    <a href="https://okdiario.com/economia/sareb-espera-proximo-gobierno-reactivar-venta-30-000-millones-activos-toxicos-3976665" title="Sareb espera al próximo Gobierno para reactivar la venta de 30.000 millones en activos tóxicos" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/08/09/sareb-235x132.jpg" itemprop="contentUrl" alt="El presidente de Sareb, Jaime Echegoyen. (Foto: EFE)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Sareb espera al próximo Gobierno para reactivar la venta de 30.000 millones en activos tóxicos</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Borja Jiménez</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Era la operación más grande del denominado &#8216;banco malo&#8217;: 30.000 millones de euros en activos tóxicos que iban a ser vendidos por la Sociedad de Gestión de Activos procedentes...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3925933" class="post-home-4 post-3925933 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-fondos-de-inversion tag-declaracion-renta">
+                    <a href="https://okdiario.com/economia/estos-son-rendimientos-capital-mobiliario-que-pueden-deducir-renta-2018-3925933" title="Estos son los rendimientos de capital mobiliario que se pueden deducir en la Renta 2018" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/05/20/fondos-de-inversion-235x132.jpg" itemprop="contentUrl" alt="Crecimiento de los ahorros">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Estos son los rendimientos de capital mobiliario que se pueden deducir en la Renta 2018</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Las respuestas son cortesía de Eva Alonso, socia consejera de Value Tree. &#171;La primera recomendación es tener en cuenta que un ahorrador puede que soporte varios tipos de gastos...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3983584" class="post-home-4 post-3983584 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-local tag-sector-vivienda tag-vivienda tag-viviendas">
+                    <a href="https://okdiario.com/economia/calenton-inmobiliario-impulsa-transformacion-locales-viviendas-madrid-3983584" title="El &#8216;calentón&#8217; inmobiliario impulsa la transformación de locales en viviendas en Madrid" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/03/06/istock-923585054-235x132.jpg" itemprop="contentUrl" alt="Comercios en el barrio de Malasaña, Madrid (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El &#8216;calentón&#8217; inmobiliario impulsa la transformación de locales en viviendas en Madrid</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Fue durante años un bar, pero su dueño acaba de hacer una obra para transformar el local y venderlo como vivienda, una tendencia cada vez más habitual en Madrid...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3980480" class="post-home-4 post-3980480 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-consejo-de-ministros tag-hipotecas tag-ley-hipotecaria">
+                    <a href="https://okdiario.com/economia/gobierno-solicita-tramite-urgente-evitar-multa-ley-hipotecaria-3980480" title="El Gobierno solicita el trámite urgente para evitar una multa por la Ley Hipotecaria" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/03/20/nadia-calvino.-foto.-madrid-235x132.jpg" itemprop="contentUrl" alt="Nadia Calviño. (Foto. Madrid)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El Gobierno solicita el trámite urgente para evitar una multa por la Ley Hipotecaria</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La ministra de Economía y Empresa, Nadia Calviño, ya avanzó esta semana que este viernes se adoptaría el trámite de urgencia de la Ley Hipotecaria, para recibir dictamen del...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3970697" class="post-home-4 post-3970697 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda">
+                    <a href="https://okdiario.com/economia/pere-navarro-promociona-congreso-mundial-zonas-francas-cono-sur-3970697" title="Pere Navarro promociona el Congreso Mundial de Zonas Francas en el Cono Sur" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/10/foto1-1-235x132.jpg" itemprop="contentUrl" alt="El delegado especial del Estado en el Consorcio de la Zona Franca de Barcelona (CZFB), Pere Navarro">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Pere Navarro promociona el Congreso Mundial de Zonas Francas en el Cono Sur</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El delegado especial del Estado en el Consorcio de la Zona Franca de Barcelona (CZFB), Pere Navarro, y la directora general del CZFB, Blanca Sorigué, están participando en el...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3938352" class="post-home-4 post-3938352 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-alquiler tag-vivienda">
+                    <a href="https://okdiario.com/economia/asi-te-afecta-nueva-normativa-del-alquiler-convalidada-hoy-congreso-3938352" title="Así te afecta la nueva normativa del alquiler convalidada hoy por el Congreso" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/06/06/como-hacer-un-contrato-de-alquiler-235x132.jpg" itemprop="contentUrl" alt="Aprede paso a paso cómo se hace un contrato de alquiler">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Así te afecta la nueva normativa del alquiler convalidada hoy por el Congreso</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La primera es que el decreto limita las subidas anuales de los precios al incremento del IPC para todos los contratos nuevos durante la duración del contrato firmado y...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3925768" class="post-home-4 post-3925768 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-bancos tag-hipotecas tag-moodys tag-tribunal-superior-justicia-europea">
+                    <a href="https://okdiario.com/economia/moodys-preve-que-banca-espanola-aumente-ejecuciones-hipotecarias-fallo-del-tue-3925768" title="Moody&#8217;s prevé que la banca española aumente las ejecuciones hipotecarias tras el fallo del TUE" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2016/08/02/antidesahucios-en-imagen-de-archivo-frente-a-cibels-235x132.png" itemprop="contentUrl" alt="Antidesahucios en imagen de archivo frente al Ayuntamiento en Cibeles. (Foto: AFP)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Moody&#8217;s prevé que la banca española aumente las ejecuciones hipotecarias tras el fallo del TUE</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Según apunta en un reciente informe, el fallo es &#171;positivo&#187; para las entidades financieras españolas, porque agrega seguridad jurídica al proceso y les permite continuar con las ejecuciones hipotecarias...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3905167" class="post-home-4 post-3905167 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-ayuntamiento-madrid tag-manuela-carmena tag-pisos-turisticos">
+                    <a href="https://okdiario.com/economia/tengo-piso-turistico-madrid-como-afecta-plan-carmena-3905167" title="Tengo un piso turístico en Madrid: ¿Cómo me afecta el Plan de Carmena?" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/09/07/istock-648972086-235x132.jpg" itemprop="contentUrl" alt="Vivienda en el centro de Madrid. Zona en la que radican la mayor parte de los pisos turísticos. (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Tengo un piso turístico en Madrid: ¿Cómo me afecta el Plan de Carmena?</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El Ayuntamiento de Madrid ha aprobado hoy el Plan impulsado por la alcaldesa, Manuela Carmena, para limitar el alquiler de pisos turísticos a tres meses al año. Pese a...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3904242" class="post-home-4 post-3904242 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-ayuntamiento-madrid tag-pisos-turisticos">
+                    <a href="https://okdiario.com/economia/ayuntamiento-madrid-confia-tribunales-salvar-regulacion-pisos-turisticos-3904242" title="El Ayuntamiento de Madrid confía en los tribunales para salvar su regulación de los pisos turísticos" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2016/05/jose-manuel-calvo-235x132.jpg" itemprop="contentUrl" alt="José Manuel Calvo (Foto: AYUNTAMIENTO DE MADRID).">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El Ayuntamiento de Madrid confía en los tribunales para salvar su regulación de los pisos turísticos</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">&#171;Si una clínica dental, si un comercio, si una zapatería tienen que tener su licencia de actividad, tienen que disponer de su acceso independiente, tienen que cumplir una serie...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3883770" class="post-home-4 post-3883770 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-airbnb tag-apartamentos-turisticos tag-ayuntamiento-madrid tag-manuela-carmena tag-pisos-turisticos">
+                    <a href="https://okdiario.com/economia/duenos-pisos-turisticos-avivan-guerra-contra-carmena-elaborar-plan-datos-falsos-3883770" title="Los dueños de pisos turísticos avivan su guerra contra Carmena por elaborar un plan con &#171;datos falsos&#187;" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/03/22/istock-458706155-235x132.jpg" itemprop="contentUrl" alt="Calle Arenal de Madrid (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Los dueños de pisos turísticos avivan su guerra contra Carmena por elaborar un plan con &#171;datos falsos&#187;</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Desde la asociación aseguran que la institución ha elaborado un &#171;plan con datos falsos. Han hecho apología de datos que no han contrastado con otras partes y otras instancias...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3870774" class="post-home-4 post-3870774 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-colonial tag-venta">
+                    <a href="https://okdiario.com/economia/colonial-pone-venta-sus-naves-logisticas-valoradas-casi-500-millones-3870774" title="Colonial pone a la venta sus naves logísticas valoradas en casi 500 millones" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/11/29/colonial-235x132.jpg" itemprop="contentUrl" alt="Junta General de Accionistas de Colonial.">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Colonial pone a la venta sus naves logísticas valoradas en casi 500 millones</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">&#171;Hemos abierto un periodo de reflexión estratégica para analizar las distintas alternativas, como puede ser la desinversión u otras&#187;, indicó el consejero delegado de la compañía, Pere Viñolas, sobre...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3828164" class="post-home-4 post-3828164 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-sector-vivienda tag-vivienda tag-viviendas-nuevas">
+                    <a href="https://okdiario.com/economia/inmobiliaria-espacio-encarga-savills-valoracion-cartera-suelo-impulsar-promocion-viviendas-3828164" title="Inmobiliaria Espacio encarga a Savills la valoración de su cartera de suelo para impulsar la promoción de viviendas" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2017/07/06/istock-505472872-235x132.jpg" itemprop="contentUrl" alt="El importe medio de las hipotecas está ya en niveles precrisis.">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Inmobiliaria Espacio encarga a Savills la valoración de su cartera de suelo para impulsar la promoción de viviendas</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">En consonancia con el auge del mercado inmobiliario, la compañía pretende impulsar la promoción de viviendas, según apuntan fuentes del sector. Inmobiliaria Espacio tiene como meta conocer y desgranar...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3827947" class="post-home-4 post-3827947 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-savills">
+                    <a href="https://okdiario.com/economia/inmobiliaria-savills-gano-42-menos-2018-pese-aumento-negocio-3827947" title="La inmobiliaria Savills ganó un 4,2% menos en 2018 pese al aumento de su negocio" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/05/11/istock-928049096-235x132.jpg" itemprop="contentUrl" alt="Compraventa de viviendas (Foto:iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">La inmobiliaria Savills ganó un 4,2% menos en 2018 pese al aumento de su negocio</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El beneficio neto atribuido de la consultora inmobiliaria británica Savills se redujo un 4,2% en 2018 en comparación con el ejercicio precedente, hasta situarse en los 76,7 millones de...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3798915" class="post-home-4 post-3798915 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-precio-vivienda">
+                    <a href="https://okdiario.com/economia/precio-vivienda-sigue-escalada-espana-subir-otro-67-media-2018-3798915" title="El precio de la vivienda sigue su escalada en España al subir otro 6,7% de media en 2018" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/05/11/istock-928049096-235x132.jpg" itemprop="contentUrl" alt="Compraventa de viviendas (Foto:iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El precio de la vivienda sigue su escalada en España al subir otro 6,7% de media en 2018</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El precio de la vivienda libre subió una media del 6,7% en 2018 respecto al año anterior, su quinto repunte anual consecutivo tras seis años de caídas y el...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3784375" class="post-home-4 post-3784375 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-ada-colau tag-cataluna tag-quim-torra tag-vivienda">
+                    <a href="https://okdiario.com/economia/torra-colau-espantan-inversion-inmobiliaria-cataluna-normas-que-encareceran-vivienda-3784375" title="Torra y Colau espantan la inversión inmobiliaria en Cataluña con normas que encarecerán la vivienda" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/03/05/alarma-sector-inmobiliario-generalitat-interior-235x132.jpg" itemprop="contentUrl" alt="Torra y Colau provocan la alarma en el sector inmobiliario en Cataluña con sus medidas.">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Torra y Colau espantan la inversión inmobiliaria en Cataluña con normas que encarecerán la vivienda</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Natalia Mateos Magariño</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Los expertos señalan que el proyecto de Ley que prepara  el Govern de Quim Torra para endurecer las medidas recogidas en el nuevo decreto de alquileres de Pedro Sánchez,...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3781997" class="post-home-4 post-3781997 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-alquiler tag-cataluna tag-ester-capella tag-generalitat">
+                    <a href="https://okdiario.com/economia/generalitat-prepara-ley-imponer-alquileres-hasta-10-anos-limitar-precios-3781997" title="La Generalitat prepara una ley para imponer alquileres de hasta 10 años y limitar precios" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/02/12/ester-capella-justicia-juicio-1-o-235x132.jpg" itemprop="contentUrl" alt="Ester Capella, consejera de Justicia de la Generalitat">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">La Generalitat prepara una ley para imponer alquileres de hasta 10 años y limitar precios</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La consellera de Justicia de la Generalitat, Ester Capella, ha anunciado este lunes que preparan un proyecto de ley para regular los alquileres, a través del Código Civil catalán,...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3766253" class="post-home-4 post-3766253 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-jose-luis-abalos tag-ministerio-de-fomento tag-precio-vivienda">
+                    <a href="https://okdiario.com/economia/pnv-alinea-blackstone-evitara-que-abalos-limite-precio-del-alquiler-como-pide-podemos-3766253" title="El PNV se alinea con Blackstone: evitará que Ábalos limite el precio del alquiler como pide Podemos" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/02/28/pnv-blackstone-interior-235x132.jpg" itemprop="contentUrl" alt="pnv-blackstone-interior">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El PNV se alinea con Blackstone: evitará que Ábalos limite el precio del alquiler como pide Podemos</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>María Vega</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El Ministerio de Fomento trabaja contrarreloj para intentar cerrar esta tarde un texto definitivo sobre Vivienda que mañana pueda ser aprobado por el Consejo de Ministros con las garantías...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3711478" class="post-home-4 post-3711478 post type-post status-publish format-standard has-post-thumbnail category-economia category-vivienda tag-brexit tag-city-londres tag-sector-inmobiliario">
+                    <a href="https://okdiario.com/economia/mercado-viviendas-ultralujo-londres-ignora-brexit-mueve-4-500-millones-2018-3711478" title="El mercado de viviendas de ultralujo en Londres ignora el Brexit y mueve 4.500 millones en 2018" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/10/16/17fme_london-suiteme_cupoladaytime-235x132.jpg" itemprop="contentUrl" alt="Imagen de Londres desde una habitación del Hotel ME London.">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El mercado de viviendas de ultralujo en Londres ignora el Brexit y mueve 4.500 millones en 2018</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>María Vega</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El Brexit no ha impedido que el mercado residencial británico siga siendo objeto de deseo para las grandes fortunas mundiales. A pocos meses de un divorcio de la UE...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-3696905" class="post-home-4 post-3696905 post type-post status-publish format-standard has-post-thumbnail category-economia category-empresas category-finanzas-personales category-vivienda tag-asociacion-espanola-de-banca-aeb tag-banca tag-ley-hipotecaria tag-senado">
+                    <a href="https://okdiario.com/economia/sector-bancario-espera-elecciones-beneficiarse-ley-hipotecaria-mas-favorable-3696905" title="El sector bancario aguarda elecciones para tener una ley hipotecaria más favorable" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/02/12/pleno-senado-pp-235x132.jpg" itemprop="contentUrl" alt="Pleno del Senado">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El sector bancario aguarda elecciones para tener una ley hipotecaria más favorable</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Mario Moratalla</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La legislatura pende de un hilo y en el sector bancario se observa con expectativa la posibilidad de que haya convocatoria de elecciones. El motivo es la nueva ley...</p>
+				</article><!-- #post-## -->
+
+			
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'><span class="meta-nav screen-reader-text">Pág. </span>1</span>
+<a class='page-numbers' href='https://okdiario.com/economia/vivienda/page/2'><span class="meta-nav screen-reader-text">Pág. </span>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://okdiario.com/economia/vivienda/page/13'><span class="meta-nav screen-reader-text">Pág. </span>13</a>
+<a class="next page-numbers" href="https://okdiario.com/economia/vivienda/page/2">Siguiente</a></div>
+	</nav>	</section>
+		<section class="aux-col">
+			<aside class="ad-block">
+				<div class="publicidad" id="adAfterP1">
+					<!-- /95562950/okdiario.com/seccion_right1 -->
+					<div id="right1">
+						<script>
+							googletag.cmd.push(function() { googletag.display("right1"); });
+						</script>
+					</div>
+				</div>
+			</aside>
+			
+
+			<!--START Widget Últimas-Noticias-->
+			     <section id="last-news" class="widget">
+        <h3 class="widget-title">Últimas noticias</h3>
+
+        <ul>                <li>
+                    <a href="https://okdiario.com/espana/primera-reunion-ayuso-monasterio-sido-clima-entendimiento-4216537" rel="bookmark" class="rel-link" title="La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;">
+                        <img src="https://okdiario.com/img/2019/06/06/reunion-entre-rocio-monasterio-e-isabel-diaz-ayuso.-foto.-pp-1-143x89.jpg"
+                             alt="La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;"/>                    </a>
+                    <a href="https://okdiario.com/espana/primera-reunion-ayuso-monasterio-sido-clima-entendimiento-4216537" rel="bookmark" title="La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;">La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/deportes/holanda-impone-inglaterra-prorroga-cita-portugal-final-uefa-nations-league-4216254" rel="bookmark" class="rel-link" title="Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League">
+                        <img src="https://okdiario.com/img/2019/06/06/fdee5d1d-d561-42d6-bc59-40b1629e1538-143x89.jpeg"
+                             alt="Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League"/>                    </a>
+                    <a href="https://okdiario.com/deportes/holanda-impone-inglaterra-prorroga-cita-portugal-final-uefa-nations-league-4216254" rel="bookmark" title="Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League">Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/internacional/trump-eleva-sus-criticas-contra-iran-lo-esta-haciendo-mal-como-nacion-4216522" rel="bookmark" class="rel-link" title="Trump eleva sus críticas contra Irán: &#171;Lo está haciendo mal como nación&#187;">
+                        <img src="https://okdiario.com/img/2018/12/21/conoce-la-nueva-especie-de-anfibio-ciego-bautizada-como-donald-trump-143x89.jpg"
+                             alt="Donald Trump"/>                    </a>
+                    <a href="https://okdiario.com/internacional/trump-eleva-sus-criticas-contra-iran-lo-esta-haciendo-mal-como-nacion-4216522" rel="bookmark" title="Trump eleva sus críticas contra Irán: &#171;Lo está haciendo mal como nación&#187;">Trump eleva sus críticas contra Irán: &#171;Lo está haciendo mal como nación&#187;</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/espana/separatistas-convocan-manifestaciones-favor-golpistas-ultimo-dia-del-juicio-del-1-o-4216499" rel="bookmark" class="rel-link" title="Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O">
+                        <img src="https://okdiario.com/img/2019/05/17/procesados-en-el-tribunal-supremo-por-el-1-o---ep-min-e1558109901851-143x89.jpeg"
+                             alt="Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O"/>                    </a>
+                    <a href="https://okdiario.com/espana/separatistas-convocan-manifestaciones-favor-golpistas-ultimo-dia-del-juicio-del-1-o-4216499" rel="bookmark" title="Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O">Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/internacional/policia-irani-arresta-dos-diplomaticos-europeos-incumplir-sharia-4216418" rel="bookmark" class="rel-link" title="La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía">
+                        <img src="https://okdiario.com/img/2019/06/06/captura-de-pantalla-2019-06-06-a-las-22.55.25-min-143x89.png"
+                             alt="La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía"/>                    </a>
+                    <a href="https://okdiario.com/internacional/policia-irani-arresta-dos-diplomaticos-europeos-incumplir-sharia-4216418" rel="bookmark" title="La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía">La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía</a>
+                </li>
+                    </ul>
+    </section>
+     
+			<!--END Widget Últimas-Noticias-->
+
+			<!--Mostramos right2-->
+			
+				<aside class="ad-block">
+					<!-- Banner publi right2 -->
+					<div class="publicidad" id="adAfterP2">
+						<!-- /95562950/okdiario.com/seccion_right2 -->
+						<div id="right2">
+							<script>
+							googletag.cmd.push(function() { googletag.display("right2"); });
+							</script>
+						</div>
+					</div>
+				</aside>			</section>
+
+			<aside class="mega">
+			<!-- /95562950/okdiario.com/portada_bottom -->
+			<div id="bottom" style="margin: 0 auto;">
+				<script>
+					googletag.cmd.push(function() { googletag.display("bottom"); });
+				</script>
+			</div>
+		</aside>
+
+		<aside class="ad-block">
+			<!-- Banner publi seccion_right3 -->
+			<div class="publicidad" id="adAfterP7">
+				<!-- /95562950/okdiario.com/seccion_right3 -->
+				<div id='seccion_right3'>
+					<script>
+						googletag.cmd.push(function() { googletag.display('right3'); });
+					</script>
+				</div>
+			</div>
+		</aside>
+
+		<aside class="ad-block">
+			<!-- Banner publi seccion_right3 -->
+			<div class="publicidad" id="adAfterP7">
+				<!-- /95562950/okdiario.com/seccion_right3 -->
+				<div id='seccion_right3'>
+					<script>
+						googletag.cmd.push(function() { googletag.display('right3'); });
+					</script>
+				</div>
+			</div>
+		</aside>
+
+	</section>
+	<aside class="mega">
+		<!-- /95562950/okdiario.com/portada_bottom -->
+		<div id='bottom' style="margin: 0 auto;">
+			<script>
+				googletag.cmd.push(function() { googletag.display('bottom'); });
+			</script>
+		</div>
+	</aside>
+</div>
+
+<aside class="outofpageHome">
+	<!-- /95562950/okdiario.com/seccion_x01 -->
+	<div id='x01' style="margin: 0 auto;">
+		<script>
+			googletag.cmd.push(function() { googletag.display('x01'); });
+		</script>
+	</div>
+</aside>
+
+
+<footer id="footerPage">
+	<div id="toTop">
+		<div class="toTopContainer"><i class="fa fa-arrow-up"></i><span class="toTopText">Ir Arriba </span></div>
+	</div>
+	<ul>
+		<li>DOS MIL PALABRAS S.L. 2018. Todos los derechos reservados</li>
+		<li><a href="https://okdiario.com/aviso-legal">Aviso Legal</a></li>
+		<li><a href="https://okdiario.com/politica-privacidad">Política de Privacidad</a></li>
+		<li><a href="https://okdiario.com/politica-cookies">Política de Cookies</a></li>
+		<li><a href="https://okdiario.com/tags">Temas</a></li>
+		<li><a href="https://okdiario.com/feed">RSS</a></li>
+		<li>Auditado por <i>ComScore</i></li>
+	</ul>
+</footer>
+  <!-- Catfish START -->
+    <div id="okd-catfish" class="catfish-start">
+      <div id="container-catfish" class="catfish-space">
+        <button id="catfish-btn"></button>
+      </div>
+    </div>
+  <!-- Catfish END -->
+
+
+<script src='https://okdiario.com/web/themes/v9/lib/navigation.js?v=20190328&v=35' type='text/javascript' ></script>
+
+
+<script type='text/javascript' src='https://okdiario.com/web/themes/v9/js/jquery.cookie.js'></script>
+<script type='text/javascript' src='https://okdiario.com/wp-includes/js/wp-embed.min.js'></script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"UB63p1IWx81070", domain:"okdiario.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=UB63p1IWx81070" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+	<script>
+		showPubli();
+
+		function showPubli() {
+			var windowWidth = $(window).width();
+
+			if (windowWidth < 768) {
+				// Banner publi intext1 mobile
+				$('article').first().after($('<aside class="envoltorio-intext1"><div id="intext1" style="margin: 0 auto;"></div></aside>'));
+				// Banner publi right1 mobile
+				$('article').first().after($('#adAfterP1'));
+				if ($('article').length > 2) {
+					// Banner publi intext2 mobile
+					$('article:eq(2)').after($('<aside class="envoltorio-intext2"><div id="intext2" style="margin: 0 auto;"></div></aside>'));
+					// Banner publi right2 mobile
+					$('article:eq(2)').after($('#adAfterP2'));
+          //Banner publi right3 data-mobile
+          $('article:eq(6)').after($('#adAfterP7'));
+				}
+
+			}
+			else {
+				if ($('article').length > 2) {
+					// Banner publi intext1 desktop
+					$('article:eq(2)').after($('<aside class="envoltorio-intext1"><div id="intext1" style="margin: 0 auto;"></div></aside>'));
+				}
+				if ($('article').length > 4) {
+					// Banner publi intext2 desktop
+					$('article:eq(4)').after($('<aside class="envoltorio-intext2"><div id="intext2" style="margin: 0 auto;"></div></aside>'));
+				}
+			}
+		}
+	</script>
+
+
+
+
+
+
+<script async src="//platform.twitter.com/widgets.js" data-vendor="c:twitter" charset="utf-8"></script>
+
+<script type='text/javascript'>
+  window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view'});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/1151813/tfa.js',
+  'tb_tfa_script');
+</script>
+<noscript>
+  <img src='//trc.taboola.com/1151813/log/3/unip?en=page_view'
+      width='0' height='0' style='display:none'/>
+</noscript>
+
+	<script>
+		$(document).ready(function() {
+		sticky_banners("right2",1);
+		});
+	</script>
+
+    
+<!-- Begin Pixel Zeotap -->
+<iframe style="display:none" src="https://spl.zeotap.com/?zdid=86&env=mWeb&eventType=pageview" ></iframe>
+<!-- End Pixel Zeotap -->
+
+<!-- Chat Facebook - START -->
+<!-- Chat Facebook - END -->
+
+<!-- Outbrain pixel START -->
+<script data-obct type="text/javascript">
+
+    /** DO NOT MODIFY THIS CODE**/
+
+    !function(_window, _document) {
+
+        var OB_ADV_ID='00252a028935bccee4fd6eb1493e8c215a';
+
+        if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+
+        var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+
+    obApi('track', 'PAGE_VIEW');
+
+</script>
+<!-- Outbrain pixel END -->
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Caching de base de datos 10/147 consultas en 0.251 segundos usando redis (Solicitud de ancho modification query)
+
+Served from: okdiario.com @ 2019-06-07 02:03:29 by W3 Total Cache
+-->

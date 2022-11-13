@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<title>Turismo: Últimas noticias sobre Turismo | OKDIARIO</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Últimas noticias sobre Turismo. Sigue la última hora del sector turístico: hoteles, tendencias en viajes y toda la actualidad económica."/>
+<link rel="canonical" href="https://okdiario.com/economia/turismo" />
+<link rel="next" href="https://okdiario.com/economia/turismo/page/2" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Turismo: Últimas noticias sobre Turismo | OKDIARIO" />
+<meta property="og:description" content="Últimas noticias sobre Turismo. Sigue la última hora del sector turístico: hoteles, tendencias en viajes y toda la actualidad económica." />
+<meta property="og:url" content="https://okdiario.com/economia/turismo" />
+<meta property="og:site_name" content="OKDIARIO" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Últimas noticias sobre Turismo. Sigue la última hora del sector turístico: hoteles, tendencias en viajes y toda la actualidad económica." />
+<meta name="twitter:title" content="Turismo: Últimas noticias sobre Turismo | OKDIARIO" />
+<meta name="twitter:site" content="@okdiario" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://okdiario.com/#organization","name":"OKDIARIO","url":"https://okdiario.com/","sameAs":["https://www.facebook.com/okdiario","https://www.instagram.com/okdiario/","https://www.linkedin.com/company/okdiario","https://twitter.com/okdiario"],"logo":{"@type":"ImageObject","@id":"https://okdiario.com/#logo","url":"https://okdiario.com/img/2016/05/logo.jpg","width":413,"height":413,"caption":"OKDIARIO"},"image":{"@id":"https://okdiario.com/#logo"}},{"@type":"WebSite","@id":"https://okdiario.com/#website","url":"https://okdiario.com/","name":"OKDIARIO","publisher":{"@id":"https://okdiario.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://okdiario.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://okdiario.com/economia/turismo#webpage","url":"https://okdiario.com/economia/turismo","inLanguage":"es","name":"Turismo: \u00daltimas noticias sobre Turismo | OKDIARIO","isPartOf":{"@id":"https://okdiario.com/#website"},"description":"\u00daltimas noticias sobre Turismo. Sigue la \u00faltima hora del sector tur\u00edstico: hoteles, tendencias en viajes y toda la actualidad econ\u00f3mica."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="OKDIARIO &raquo; Turismo RSS de la categoría" href="https://okdiario.com/economia/turismo/feed" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://okdiario.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<meta property="fb:pages" content="376573025871689" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="apple-touch-icon" sizes="57x57" href="/img/i/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/img/i/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/i/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/i/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/i/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/i/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/i/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/i/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/i/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/img/i/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/i/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/img/i/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/i/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/img/i/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+    <script src="https://contributor.google.com/scripts/6baf8400b4b60141/loader.js"></script><script>(function(){'use strict';var f=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this,m=/^[\w+/_-]+[=]{0,2}$/,n=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+    if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},t=Date.now||function(){return+new Date},u=function(a,b){function c(){}c.prototype=b.prototype;a.m=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.j=function(a,c,g){for(var d=Array(arguments.length-2),e=2;e<arguments.length;e++)d[e-2]=arguments[e];return b.prototype[c].apply(a,
+    d)}};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var w=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^t()).toString(36)};var y=function(){this.a="";this.b=x},x={},z=function(a){var b=new y;b.a=a;return b};var A=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.b===x?b.a:"type_error:TrustedResourceUrl";if(null===n)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){n=b;break b}n=""}b=n;b&&a.setAttribute("nonce",b)};var B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,g){try{var h=a.a,k=a.a.createElement("SCRIPT");k.async=!0;A(k,b);h.head.appendChild(k);k.addEventListener("load",function(){e();d&&h.head.removeChild(k)});k.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,g):(d&&h.head.removeChild(k),g())})}catch(p){g()}};var D=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),E=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),aa=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ba=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},H=function(a){if(a.b.body&&!a.g){var b=
+    function(){F(a);l.setTimeout(function(){return G(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},F=function(a){for(var b=I(1,5),c=0;c<b;c++){var d=J(a);a.b.body.appendChild(d);a.c.push(d)}b=J(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=I(100,110).toString()+"%";b.style.zIndex=I(2147483544,2147483644).toString();b.style["background-color"]=K(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=K(0,10,0,10,0,10);b.style.display=
+    "flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=J(a);c.style.width=I(80,85).toString()+"%";c.style.maxWidth=I(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=a.f.a.createElement("IMG");d.className=w();d.src=D;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=J(a),g=J(a);g.style["font-weight"]="bold";g.textContent=E;var h=J(a);h.textContent=
+    aa;L(a,e,g);L(a,e,h);L(a,c,d);L(a,c,e);L(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=I(1,5);for(c=0;c<b;c++)d=J(a),a.b.body.appendChild(d),a.c.push(d)},L=function(a,b,c){for(var d=I(1,5),e=0;e<d;e++){var g=J(a);b.appendChild(g)}b.appendChild(c);c=I(1,5);for(d=0;d<c;d++)e=J(a),b.appendChild(e)},I=function(a,b){return Math.floor(a+Math.random()*(b-a))},K=function(a,b,c,d,e,g){return"rgb("+I(Math.max(a,0),Math.min(b,255)).toString()+","+I(Math.max(c,0),Math.min(d,255)).toString()+","+I(Math.max(e,0),Math.min(g,
+    255)).toString()+")"},J=function(a){a=a.f.a.createElement("DIV");a.className=w();return a},G=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(ca(a),F(a),l.setTimeout(function(){return G(a,b-1)},50))},ca=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:f(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var M=function(a,b,c){a=l.btoa(a+b);v(a,c)},da=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var fa=function(a,b,c,d,e){var g=ea(c),h=function(c){c.appendChild(g);l.setTimeout(function(){g?(0!==g.offsetHeight&&0!==g.offsetWidth?b():a(),g.parentNode&&g.parentNode.removeChild(g)):a()},d)},k=function(a){document.body?h(document.body):0<a?l.setTimeout(function(){k(a-1)},e):b()};k(3)},ea=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var N=null;var O=function(){},P="function"==typeof Uint8Array,Q=function(a,b){a.b=null;b||(b=[]);a.l=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||"array"==r(c)||P&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},R=[],S=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===R?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===R?a.c[b]=[]:c},U=function(a,b){var c=T;a.b||(a.b={});if(!a.b[b]){var d=S(a,b);d&&(a.b[b]=new c(d))}return a.b[b]};
+    O.prototype.h=P?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){if(!N){N={};for(var a=0;65>a;a++)N[a]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(a)}a=N;for(var c=[],d=0;d<this.length;d+=3){var e=this[d],g=d+1<this.length,h=g?this[d+1]:0,k=d+2<this.length,p=k?this[d+2]:0,ha=e>>2;e=(e&3)<<4|h>>4;h=(h&15)<<2|p>>6;p&=63;k||(p=64,g||(h=64));c.push(a[ha],a[e],a[h],a[p])}return c.join("")};try{return JSON.stringify(this.a&&this.a,V)}finally{Uint8Array.prototype.toJSON=
+    a}}:function(){return JSON.stringify(this.a&&this.a,V)};var V=function(a,b){return"number"!=typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};O.prototype.toString=function(){return this.a.toString()};var T=function(a){Q(this,a)};u(T,O);var W=function(a){Q(this,a)};u(W,O);var ia=function(a,b){this.g=new B(a);var c=U(b,11);c=z(S(c,4)||"");this.b=new ba(a,c,S(b,10));this.a=b;this.f=S(this.a,1);this.c=!1},X=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=z(S(b,4)||"");C(a.g,b,3,!1,c,function(){fa(function(){H(a.b);d(!1)},function(){d(!0)},S(a.a,12),S(a.a,5),S(a.a,3))})},ja=function(a){a.c||(M(a.f,"internal_api_load_with_sb",function(b,c,d){X(a,b,c,d)}),M(a.f,"internal_api_sb",function(){H(a.b)}),a.c=!0)};var Y=function(a){this.h=l.document;this.a=new ia(this.h,a);this.f=S(a,1);this.g=U(a,2);this.c=!1;this.b=a};Y.prototype.start=function(){try{ka(),ja(this.a),l.googlefc=l.googlefc||{},"callbackQueue"in l.googlefc||(l.googlefc.callbackQueue=[]),la(this)}catch(a){H(this.a.b)}};
+    var ka=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},la=function(a){var b=t();X(a.a,a.g.h(),function(){var c=l.btoa(a.f+"cached_js");(c=l[c])?(c=l.atob(c),c=3E5>Math.abs(b-parseInt(c,10))):c=!1;c||
+    (da(a.f,"internal_api_sb"),Z(a,S(a.b,9)))},function(b){b?Z(a,S(a.b,7)):Z(a,S(a.b,8))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__475an521in8a__",function(a){"function"==typeof l.atob&&(a=l.atob(a),a=new W(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+    window.__475an521in8a__("WyI2YmFmODQwMGI0YjYwMTQxIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4Vy1lVTlPQ1FhOG5ac0pUNXVubmwtVDljbXVOeWVFejFDQVUtbkxKejQwMkt4LXo2bUQwUVAydlpkRjZUR05nMVVWM0t1NFlTaWdLX2pWb05DciJdCiwyMCxudWxsLDEwMCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9sL0FHU0tXeFZsdExUR2NLQ2FFT3JLRzExcmR4dUx2aHJRVmRkTlNYcmhIZUFTZDZRNEE2WUdoTmZYOWVleHNPaU5zRlBUUDIxQlFib3loVzJORDVfOXRiank/YWJcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVc1loaHlIcVAwYTdMemo1ZnlmcFlYT2Z3Z2tFMVpMV1BUcDRma1Jock9JcmtBVjhKWHRCWkZhQ3hOQndDN2JYMDQ1MlhuYkRXbzY2eWlKNFJjP2FiXHUwMDNkMVx1MDAyNnNiZlx1MDAzZDEiLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9sL0FHU0tXeFd1N2gwbkMzWUdBN2lDNldlZ3NxQTAxT0p1Z0NyT1JYc0U1b3B5TW1kLWMxR05BdjVJVDk4RWJfVm00eHRhVjRtRXBMOWw3N0RWU0xtd0VaNV8/c2JmXHUwMDNkMiIsIk5tSmhaamcwTURCaU5HSTJNREUwTVFcdTAwM2RcdTAwM2QiLFtudWxsLG51bGwsbnVsbCwiaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vMGVtbi9mL3AvNmJhZjg0MDBiNGI2MDE0MS5qcz91c3FwXHUwMDNkQ0JBIl0KLCJkaXYtZ3B0LWFkIl0K");</script>
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Feed RSS de noticias nacionales e internacionales en OKDIARIO" href="https://okdiario.com/feed"/>
+
+<link href="https://okdiario.com/web/themes/v9/css/okdiario-v1.css?v=20190522" rel="stylesheet" type="text/css">
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- Config cookies -->
+<script type="text/javascript" src="https://okdiario.com/web/themes/v9/lib/gdpr-didomi-no-prebid.js?v=091"></script>
+
+<!-- Privacidad didomi -->
+<script type="text/javascript" id="spcloader" src="https://sdk.privacy-center.org/loader.js" async></script>
+<!-- Estilos cookies -->
+<style type="text/css">
+  /* Cartel consentimiento */
+  #didomi-notice{ width:100%; background-color: #f8f8f8 !important; box-shadow: 0 0 0 4px rgba(0,0,0,.05) !important; border-bottom: 1px solid rgba(0,0,0,.1) !important; }
+  .didomi-notice__interior-border{ display: block !important; max-width: 1500px !important; padding-top: 10px !important; margin: 0 auto !important; margin-bottom: 0 !important; }
+  .didomi-notice__interior-border .push-right{ margin-right: 0 !important; }
+  .didomi-notice__interior-border .cookies-title{ -webkit-text-fill-color: #333 !important; color: #333; font-size: 1.4em !important; line-height: 1.4em !important; }
+  #didomi-host p { margin-bottom: 10 !important;}
+  .didomi-notice__interior-border .cookies-text{ line-height: 1.5em !important; font-size: 1.1em !important; -webkit-text-fill-color: #666 !important; color: #666 !important; margin-top: 5px !important; }
+  .didomi-notice__interior-border .cookies-text a{ -webkit-text-fill-color: #0097e7 !important; color: #0097e7 !important; cursor: pointer !important; }
+  .didomi-notice__interior-border #buttons { float: right; margin-bottom: 10px !important }
+  .didomi-notice__interior-border .highlight-button { -webkit-text-fill-color: #fff !important; color: #fff !important; background-color: #000 !important; margin: 0 5px !important; text-decoration: none !important; padding: 5px 20px !important; border: none !important; text-transform: uppercase !important; font-size: 13px !important; min-width: auto !important; }
+  .didomi-notice__interior-border .standard-button { -webkit-text-fill-color: #666 !important; border-color: transparent !important; background-color: transparent !important; color: #666 !important; text-transform: none !important; font-size: 12px !important; font-weight: 400 !important}
+  @media(max-width:1024px){
+    .didomi-notice__interior-border { border-color: transparent !important; }
+    .didomi-notice__interior-border .cookies-text{ line-height: 1.5em !important; font-size: 1.25em !important; -webkit-text-fill-color: #666 !important; color: #666 !important; }
+    #didomi-host p { margin-bottom: 0 !important;}
+    #didomi-host .didomi-mobile #didomi-notice #buttons.multiple, #didomi-host .didomi-mobile #didomi-notice #buttons.single, #didomi-host .didomi-mobile #didomi-notice #buttons.single a[role=button] { width: auto !important; }
+  }
+  @media(max-width:767px){
+    #didomi-host p { margin-bottom: 0 !important;}
+    .didomi-notice__interior-border .cookies-text { font-size: 1.25em !important; }
+    .didomi-notice__interior-border #buttons { float: right; margin-bottom: 20px !important }
+    #didomi-host .didomi-mobile #didomi-notice #buttons { margin-top: 10px !important; }
+  }
+  /* Popup configuración */
+  .didomi-consent-popup__dialog { max-height: 700px !important; overflow: auto !important; }
+  #didomi-consent-popup { background-color: rgba(0,0,0,.5) !important; }
+  .didomi-consent-popup-header { padding: 30px 50px 0 !important; }
+  .didomi-consent-popup-title span { text-transform: uppercase !important; font-weight: 700 !important; font-family: Arial !important; font-size: 16px !important; text-rendering: optimizeLegibility !important; -webkit-font-smoothing: antialiased !important; line-height: 1.5em !important; }
+  .didomi-consent-popup-preferences { padding: 0px 30px !important; }
+  .didomi-consent-popup-body__title { font-family: Arial !important };
+  #didomi-host .didomi-consent-popup__exterior-border { border: none !important; border-radius: 0 !important; }
+  #didomi-host .didomi-consent-popup__exterior-border { border-color: transparent !important; }
+  #didomi-host .didomi-consent-popup__dialog { border: none !important; border-radius: 0 !important; }
+  .didomi-consent-popup-header { padding: 50px 50px 0 !important; }
+  .didomi-consent-popup-partner a { -webkit-text-fill-color: #0097e7 !important; color: #0097e7 !important; cursor: pointer !important; }
+  .didomi-components-radio svg { display: none; }
+  #didomi-host .didomi-components-radio__option.didomi-components-radio__option--agree { background-color: #000000 !important; -webkit-text-fill-color: #fff !important; }
+  #didomi-host .didomi-consent-popup-footer .didomi-consent-popup-actions * { -webkit-text-fill-color: #fff !important; }
+</style>
+
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://okdiario.com/web/themes/v9/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+window.didomiOnReady = window.didomiOnReady || [];
+window.didomiOnReady.push(function (Didomi) {
+ // Check user consent
+ var comScoreConsent = false;
+ var isComscoreConsentPresent = Didomi.getUserConsentStatusForVendor(77);
+
+ // Embed ComScore
+ window._comscore = window._comscore || [];
+
+  if(isComscoreConsentPresent === undefined){
+    window._comscore.push({ c1: "2", c2: "20643943"});
+  }else{
+   if (
+     !Didomi.isConsentRequired()
+     || isComscoreConsentPresent  === true
+   ) {
+     comScoreConsent = true;
+   }
+   window._comscore.push({ c1: "2", c2: "20643943",  cs_ucfr: comScoreConsent ? "1" : "0" });
+  }
+
+ (function() {
+   var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+   el.parentNode.insertBefore(s, el);
+ })();
+});
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=20643943&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67280020-1"></script>
+<script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-67280020-1');
+  gtag('config', 'AW-865277086');
+</script>
+<!-- End Analytics Tag -->
+
+<!-- DFP TAGS - 15/01/2018 -->
+<script>
+            function detectDevice() {
+                windowWidth = window.innerWidth;
+                var device = 'desktop';
+
+                if(windowWidth < 768){ //mobile
+                    device = 'mobile';
+                }else if(windowWidth >= 768 && windowWidth <= 1024) {
+                    device = 'tablet';
+                }
+                return device;
+            }
+        </script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+        <script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script><script>
+                if (detectDevice() == 'mobile') {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_top1', ['fluid', [300, 100], [320, 50], [320, 100]], 'top1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_right1', [[300, 250], 'fluid', [300, 300], [300, 600]], 'right1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_right2', [[300, 250], 'fluid', [300, 300], [300, 600]], 'right2').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_right3', [[300, 300], [300, 600], [300, 250], 'fluid'], 'seccion_right3').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_bottom', ['fluid', [300, 100], [320, 50], [320, 100]], 'bottom').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/m.okdiario.com/seccion_sticky', [[300, 100], [320, 100], [320, 50]], 'seccion_sticky').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/m.okdiario.com/seccion_x01', 'x01').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/m.okdiario.com/seccion_intext1', 'intext1').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/m.okdiario.com/seccion_intext2', 'intext2').addService(googletag.pubads());
+                        googletag.pubads().disableInitialLoad();
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.pubads().setTargeting('metatag', []).setTargeting('section', ['economia']).setTargeting('subsection', ['turismo']);
+                        googletag.enableServices();
+                    });
+                }
+                else if (detectDevice() == 'tablet') {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_top1', [[728, 90]], 'top1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right1', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right2', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right2').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_bottom', [[728, 90]], 'bottom').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_x01', 'x01').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext1', 'intext1').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext2', 'intext2').addService(googletag.pubads());
+                        googletag.pubads().disableInitialLoad();
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.pubads().setTargeting('metatag', []).setTargeting('section', ['economia']).setTargeting('subsection', ['turismo']);
+                        googletag.enableServices();
+                    });
+                }
+                else {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_top1', [[980, 90], [728, 90], [980, 250], [970, 90], [970, 250], [990, 90], [990, 250]], 'top1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_sky-derecha', [[160, 600], [120, 600], [120, 1000], [120, 800], [320, 1000]], 'sky-derecha').addService(googletag.pubads());
+                        
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right1', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right1').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_right2', [[300, 250], [300, 600], [300, 300], [160, 600]], 'right2').addService(googletag.pubads());
+                        googletag.defineSlot('/95562950/okdiario.com/seccion_bottom', [[980, 90], [728, 90], [980, 250], [970, 90], [970, 250], [990, 90], [990, 250]], 'bottom').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_x01', 'x01').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext1', 'intext1').addService(googletag.pubads());
+                        googletag.defineOutOfPageSlot('/95562950/okdiario.com/seccion_intext2', 'intext2').addService(googletag.pubads());
+                        googletag.pubads().disableInitialLoad();
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.pubads().setTargeting('metatag', []).setTargeting('section', ['economia']).setTargeting('subsection', ['turismo']);
+                        googletag.enableServices();
+                    });
+                }
+            </script>
+
+<!-- IDALGO -->
+<script type="text/javascript" src="https://okdiario.idalgo-hosting.com/r/jil" async="true"></script>
+<!-- END IDALGO -->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '223156934992982');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=223156934992982&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!--<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://okdiario.com/",
+"name": "OKDIARIO"
+}
+</script>-->
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+ <script>
+   var OneSignal = window.OneSignal || [];
+   OneSignal.push(["init", {
+     appId: "2a7095c5-815a-4f06-b6a7-270a599e9c9c",
+     autoRegister: true,
+     notifyButton: { enable: false },
+     welcomeNotification: { disable: true },
+     safari_web_id: "web.onesignal.auto.49809676-9f7f-4916-aef3-fd94958742a1",
+     promptOptions: {
+        /* actionMessage limited to 90 characters */
+        actionMessage: "¿Quieres que OKDIARIO te mantenga informado de las noticias más destacadas de cada día--?",
+        /* acceptButtonText limited to 15 characters */
+        acceptButtonText: "ACEPTAR",
+        /* cancelButtonText limited to 15 characters */
+        cancelButtonText: "NO, GRACIAS"
+      }
+   }]);
+ </script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js').then(function(reg){
+                    console.log("Service Worker Registered", reg);
+                })
+                .catch(function(err) {
+                    console.log("Service Worker Failed to Register", err);
+                })
+        }
+    </script>
+</head>
+
+<body class="archive category category-turismo category-72163 economia ">
+
+
+<div id="page" class="all site">
+  <div id="header">
+    <aside class="mega">
+      <div id='top1' style="margin: 0 auto; height: auto;">
+        <script>
+          googletag.cmd.push(function() { googletag.display('top1'); });
+        </script>
+      </div>
+    </aside>
+    <!-- Nueva cabecera. 20/03/2019-->
+    <header id="okdiario-cabecera" class="okdiario-cabecera">
+<div class="okdiario-cabecera-interior">
+  <div class="okdiario-cabecera-superior">
+    <div class="okdiario-cabecera-superior-interior">
+
+      <div class="okdiario-cabecera-superior-izquierda">
+        <!--START Widget Destacados-->
+         <div class="okdiario-cabecera-destacados">
+    <span class="okdiario-destacados-title">Destacados:</span>
+    <div class="okdiario-destacados-container"><ul id="okdiario-destacados" class="okdiario-destacados"><li id="menu-item-4204313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4204313"><a href="https://okdiario.com/happyfm/amar-siempre-adriana-torrebejano-llega-serie-interpretar-lourdes-ordonez-4213110">Amar es para siempre</a></li>
+<li id="menu-item-4215298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4215298"><a href="https://okdiario.com/deportes/real-madrid-valencia-directo-partido-playoffs-acb-liga-endesa-2019-4214945">Real Madrid &#8211; Valencia</a></li>
+<li id="menu-item-4212328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4212328"><a href="https://okdiario.com/deportes/holanda-inglaterra-hora-donde-ver-partido-liga-naciones-4212178">Holanda &#8211; Inglaterra</a></li>
+<li id="menu-item-4195732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4195732"><a href="https://okdiario.com/espana/concejal-del-psoe-canarias-sus-alumnos-eso-ninos-hay-que-castrarlos-nacer-4211669">PSOE</a></li>
+<li id="menu-item-4212040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4212040"><a href="https://okdiario.com/loteria/primitiva-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212883">Primitiva</a></li>
+<li id="menu-item-4212179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4212179"><a href="https://okdiario.com/loteria/cupon-diario-super-once-7-39-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212917">ONCE</a></li>
+<li id="menu-item-4200602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4200602"><a href="https://okdiario.com/loteria/loteria-nacional-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212897">Lotería Nacional</a></li>
+<li id="menu-item-4201783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4201783"><a href="https://okdiario.com/loteria/bonoloto-sigue-directo-sorteo-resultado-hoy-jueves-6-junio-2019-4212850">Bonoloto</a></li>
+<li id="menu-item-4042422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4042422"><a href="https://okdiario.com/deportes/federer-nadal-hora-donde-ver-semifinales-roland-garros-4213399">Federer &#8211; Nadal</a></li>
+<li id="menu-item-4194278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4194278"><a href="https://okdiario.com/television/supervivientes-2019-chelo-isabel-o-dakota-quien-prefieres-que-vaya-4211548">Supervivientes 2019</a></li>
+<li id="menu-item-4198003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4198003"><a href="https://okdiario.com/deportes/mercado-fichajes-2019-ultima-hora-fichajes-rumores-traspasos-hoy-directo-4210130">Mercado de fichajes</a></li>
+<li id="menu-item-4195057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4195057"><a href="https://okdiario.com/deportes/roland-garros-2019-resultados-partidos-hoy-jueves-6-junio-4214660">Roland Garros</a></li>
+<li id="menu-item-4195062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4195062"><a href="https://okdiario.com/horoscopo/horoscopo-hoy-6-junio-2019-4188953">Horóscopo</a></li>
+<li id="menu-item-4215924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4215924"><a href="https://okdiario.com/deportes/islas-feroe-espana-hora-donde-ver-partido-fase-clasificacion-eurocopa-2020-4212925">Islas Feroe – España</a></li>
+</ul></div>    <div class="okdiario-destacados-dropdown-top">
+        <span class="okdiario-destacados-dropdown-top-title"><a>Más <i></i></a></span>
+        <div class='okdiario-destacados-dropdown-container'><ul class='okdiario-destacados-dropdown empty'></ul></div>    </div>
+</div>
+ 
+        <!--END Widget Destacados-->
+      </div>
+
+      <div class="okdiario-cabecera-superior-derecha">
+        <div class="okdiario-cabecera-fecha">
+          <time>
+          <span>7 Jun 2019</span>
+        </time>
+        </div>
+        <div class="okdiario-cabecera-actualizacion">
+          <time>
+            <span><strong>Actualizado</strong></span>
+            23:53 <abbr title="Central European Time">CET</abbr>
+          </time>
+
+        </div>
+        <ul>
+          <li id="okdiario-cabecera-newsletter">
+            <a href="/newsletter/" title="Newsletter" alt="Newsletter"><i class="icon-label"></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="okdiario-cabecera-inferior">
+    <div class="okdiario-cabecera-inferior-interior">
+      <nav class="navTop left">
+        <ul>
+          <li class="sections" id="sectionMenu">
+            <div class="nav-icon">
+              <a class="burger-box">
+                <div class="burger"></div>
+              </a>
+            </div>
+      <div class="menu-auxiliar">
+        <nav><div class="menu-menu-completo-container"><ul id="menu-extra" class=""><li id="menu-item-810296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-810296"><a href="https://okdiario.com">PORTADA</a></li>
+<li id="menu-item-126833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126833"><a href="https://okdiario.com/espana">España</a></li>
+<li id="menu-item-826131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-826131"><a href="https://okdiario.com/economia">Economía</a></li>
+<li id="menu-item-126810" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126810"><a href="https://okdiario.com/investigacion">Investigación</a></li>
+<li id="menu-item-1667311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1667311"><a href="https://okdiario.com/deportes">Deportes</a></li>
+<li id="menu-item-167202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167202"><a href="https://diariomadridista.okdiario.com">Diario Madridista</a></li>
+<li id="menu-item-126861" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126861"><a href="https://okdiario.com/internacional">Internacional</a></li>
+<li id="menu-item-126812" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126812"><a href="https://okdiario.com/sociedad">Sociedad</a></li>
+<li id="menu-item-126836" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126836"><a href="https://okdiario.com/cultura">Cultura</a></li>
+<li id="menu-item-126898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126898"><a href="https://okdiario.com/opinion">Opinión</a></li>
+<li id="menu-item-769936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-769936"><a href="https://look.okdiario.com">Look</a></li>
+<li id="menu-item-890193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890193"><a href="#">CANALES</a>
+<ul class="sub-menu">
+	<li id="menu-item-366162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366162"><a href="https://okdiario.com/television">Televisión</a></li>
+	<li id="menu-item-3910030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3910030"><a href="https://okdiario.com/cine">Cine</a></li>
+	<li id="menu-item-3910028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3910028"><a href="https://okdiario.com/series">Series</a></li>
+	<li id="menu-item-3910024" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3910024"><a href="https://okdiario.com/musica">Música</a></li>
+	<li id="menu-item-561571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561571"><a href="https://okdiario.com/curiosidades">Curiosidades</a></li>
+	<li id="menu-item-366177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366177"><a href="https://okdiario.com/recetas">Recetas de cocina</a></li>
+	<li id="menu-item-1059404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1059404"><a href="https://okdiario.com/howto">How To</a></li>
+	<li id="menu-item-366132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366132"><a href="https://okdiario.com/salud">Salud</a></li>
+	<li id="menu-item-3375507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3375507"><a href="https://okdiario.com/happyfm">HappyFM</a></li>
+</ul>
+</li>
+<li id="menu-item-126906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126906"><a href="https://okdiario.com/videos">Vídeos</a></li>
+<li id="menu-item-1815804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1815804"><a href="https://okdiario.com/ultimas-noticias">Últimas noticias</a></li>
+<li id="menu-item-3929349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3929349"><a href="https://okdiario.com/quienes-somos">Quiénes somos</a></li>
+</ul></div>        </nav>
+      </div>
+          </li>
+          <li class="search">
+            <a class="showSearchForm" >
+              <i class="icon-lupa"></i>
+            </a>
+            <div class="searchForm">
+              <form role="search" method="get" class="search-form" action="/buscador">
+                <label>
+                  <span class="searchIco"><i class="icon-lupa"></i></span>
+                  <input type="text" id="searchInput" name="q" value="" placeholder="¿Qué noticia estás buscando?">
+                </label>
+                <input type="submit" value="Buscar" id="submitSearchForm" class="hide">
+              </form>
+            </div>
+          </li>
+        </ul>
+      </nav>
+         <div id='okdiario' class='okdiario categoria '>
+                        <div class='okdiario-logo'>
+                   <!--<div itemtype='https://data-vocabulary.org/Breadcrumb' itemscope class='okdiario-logo'>--><a href="/">                      <span class="okdiario-logo-span" style="background:url('../web/themes/v9/css/_img/logo-okdiario.svg') center no-repeat;">OKDIARIO</span>
+             <!-- <span itemprop="title" class="okdiario-logo-span">OKDIARIO</span> -->
+           </a>
+         </div>                   </div>
+       <div id='okdiario-seccion' class='okdiario-seccion '>
+                          <a class='okdiario-seccion-url' title='Ir a Turismo' href='/turismo'><h1  class='okdiario-seccion-title'>Turismo</h1></a>
+                        </div>    </div>
+  </div>
+<div id='okdiario-cabecera-secciones' class='okdiario-cabecera-secciones'>
+            <div class='okdiario-secciones-menu '>
+                <div class='okdiario-secciones-menu-interior'>
+                  <div class='okdiario-secciones-menu-navegacion '>
+                  <ul itemtype='https://schema.org/SiteNavigationElement' itemscope class='okdiario-secciones-menu-navegacion-ul' style='color:white'><li><a href='https://okdiario.com/economia/empresas'class=''>Empresas</a></li><li><a href='https://bolsa.okdiario.com/'class=''>Mercados</a></li><li><a href='https://okdiario.com/economia/cuentas-publicas'class=''>Cuentas Públicas</a></li><li><a href='https://okdiario.com/economia/inversion'class=''>Inversión</a></li><li><a href='https://okdiario.com/economia/empleo'class=''>Empleo</a></li><li><a href='https://okdiario.com/economia/emprendedores'class=''>Emprendedores</a></li><li><a href='https://okdiario.com/economia/vivienda'class=''>Vivienda</a></li><li><a href='https://okdiario.com/economia/turismo'class='seccion-activa'>Turismo</a></li></ul>
+                    </div>
+                </div>
+            </div></div>        <!--START Widget Directo-->
+          
+        <!--END Widget Directo-->
+
+      <!--START Widget Break news-->
+        
+      <!--END Widget  Break news-->
+
+
+</div>
+</header>
+</div>
+
+
+
+  
+<div id="archiveContent" data-section="economia">
+	<!-- Banners publi skys -->
+		<aside class="sky-banners">
+								<div class="sky-right">
+					<!-- /95562950/okdiario.com/seccion_sky-derecha -->
+				</div>
+			</aside>
+
+	<section class="content">
+							<div class="topic-information">
+				Sigue las últimas noticias de economía nacional e internacional: Ibex 35, empleo, impuestos, pensiones, presupuestos y la última hora de la bolsa.			</div>
+		
+		
+			
+				<article id="post-4215934" class="post-home-1 post-4215934 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-gastronomia tag-melia tag-melia-hotels-international tag-sector-turismo tag-turismo">
+                    <a href="https://okdiario.com/economia/melia-castilla-vive-experiencia-bleisure-madrid-4215934" title="Meliá Castilla, vive la experiencia &#8216;bleisure&#8217; en Madrid" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/06/06/140ameliacastilla_tl-suite_castilla_the_level_bedrooom-1-990x556.jpg" itemprop="contentUrl" alt="THE LEVEL en Meliá Castilla (Foto: Meliá)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Meliá Castilla, vive la experiencia &#8216;bleisure&#8217; en Madrid</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Meliá Hoteles</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El turismo bleisure es una tendencia cada vez más creciente, una combinación de lo mejor del turismo de negocios con todo lo que te puede ofrecer el turismo vacacional....</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4162119" class="post-home-2-left post-4162119 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-brexit tag-theresa-may tag-turismo">
+                    <a href="https://okdiario.com/economia/brexit-puede-may-amenaza-turismo-espanol-perdida-3-millones-visitantes-4162119" title="El &#8216;Brexit&#8217; puede con May y amenaza al turismo español con la pérdida de 3 millones de visitantes" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/25/istock-1125870344-487x274.jpg" itemprop="contentUrl" alt="Playa del Inglés en Maspalomas, Gran Canaria (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El &#8216;Brexit&#8217; puede con May y amenaza al turismo español con la pérdida de 3 millones de visitantes</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El Brexit ha devorado a Theresa May. La primera ministra anunció su dimisión el pasado viernes y su partida ha resucitado la amenaza de un divorcio &#8216;duro&#8217; entre Reino...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4158198" class="post-home-2-right post-4158198 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-melia tag-melia-hotels-international tag-turismo">
+                    <a href="https://okdiario.com/economia/melia-madrid-princesa-tu-hotel-corazon-ciudad-4158198" title="Meliá Madrid Princesa, tu hotel en el corazón de la ciudad" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/24/121bmeliamadridprincesa-the_level_room_palacio_real_view-487x274.jpg" itemprop="contentUrl" alt="Meliá Madrid Princesa (Foto: Meliá)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Meliá Madrid Princesa, tu hotel en el corazón de la ciudad</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Meliá Hotels International</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Madrid es ocio, cultura, gastronomía y patrimonio. Es el destino ideal para una escapada de fin de semana tanto si vives en la zona o no, porque qué mejor...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4157635" class="post-home-3 post-4157635 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-madrid tag-sector-turismo tag-sector-turistico tag-turismo">
+                    <a href="https://okdiario.com/economia/madrid-engancha-turismo-ciudad-quiere-ser-potencia-turistica-desde-sostenibilidad-4157635" title="Madrid &#8216;se engancha&#8217; al turismo: la ciudad quiere ser potencia turística desde la sostenibilidad" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/24/istock-992981198-487x274.jpg" itemprop="contentUrl" alt="Turismo en Madrid (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Madrid &#8216;se engancha&#8217; al turismo: la ciudad quiere ser potencia turística desde la sostenibilidad</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Pese a que hasta hace poco la ciudad no &#8216;se alimentaba&#8217; de esta industria, el turismo ha adquirido especial protagonismo dando lugar a nuevos alojamientos, nuevos eventos, visitantes y...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4153542" class="post-home-3 post-4153542 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-air-europa">
+                    <a href="https://okdiario.com/economia/air-europa-alia-expedia-ofertar-reservas-alojamiento-4153542" title="Air Europa se alía con Expedia para ofertar reservas de alojamiento" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/23/home-hoteles-air-europa-487x274.jpg" itemprop="contentUrl" alt="Air Europa se une a Expedia Partner Solutions para ofertar reservas de alojamiento (Foto: Air Europa)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Air Europa se alía con Expedia para ofertar reservas de alojamiento</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Air Europa, la división aérea del grupo turístico Globalia, ha alcanzado un acuerdo exclusivo con Expedia Partner Solutions (EPS), la marca B2B del grupo Expedia, para ofrecer a sus...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4149324" class="post-home-3 post-4149324 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-brexit tag-turismo">
+                    <a href="https://okdiario.com/economia/dispara-gasto-turistas-extranjeros-segundo-trimestre-89-mas-llegadas-4149324" title="Se dispara el gasto de los turistas extranjeros en el segundo trimestre con un 8,9% más de llegadas" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/08/24/istock-934850144-487x274.jpg" itemprop="contentUrl" alt="Hoteles en Benidorm (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Se dispara el gasto de los turistas extranjeros en el segundo trimestre con un 8,9% más de llegadas</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">España prevé recibir 25,5 millones de turistas extranjeros en el segundo trimestre del año, de abril a junio, lo que supone un crecimiento del 8,9% en las llegadas, con...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4146678" class="post-home-4 post-4146678 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-imserso">
+                    <a href="https://okdiario.com/economia/falta-acuerdo-programa-del-imserso-obligara-mas-100-hoteles-espanoles-cerrar-octubre-4146678" title="La falta de acuerdo en el programa del Imserso obligará a más de 100 hoteles españoles a cerrar en octubre" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/26/istock-89343913-235x132.jpg" itemprop="contentUrl" alt="Viaje del Imserso (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">La falta de acuerdo en el programa del Imserso obligará a más de 100 hoteles españoles a cerrar en octubre</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Más de 100 hoteles pueden echar el cierre el próximo mes de octubre, tras el Puente del Pilar, por el conflicto del programa del Imserso. La falta de acuerdo...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4145469" class="post-home-4 post-4145469 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-imserso">
+                    <a href="https://okdiario.com/economia/hoteleros-reuniran-ministra-turismo-encontrar-salida-programa-del-imserso-4145469" title="Los hoteleros se reunirán con la ministra de Turismo para encontrar una salida al programa del Imserso" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/21/whatsapp-image-2019-05-21-at-17-235x132.jpg" itemprop="contentUrl" alt="Rueda de prensa de la Confederación Española de Hoteles y Alojamientos Turísticos (CEHAT) (Foto: C.M.)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Los hoteleros se reunirán con la ministra de Turismo para encontrar una salida al programa del Imserso</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La Confederación Española de Hoteles y Alojamientos Turísticos (CEHAT) se reunirá en menos de diez días con la ministra de Turismo en funciones, Reyes Maroto, para encontrar una salida...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4136725" class="post-home-4 post-4136725 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-caixaforum tag-museo-guggenheim-bilbao tag-turismo">
+                    <a href="https://okdiario.com/economia/caixaforum-guggenheim-bilbao-son-museos-espanoles-que-mas-crecen-visitantes-4136725" title="CaixaForum y Guggenheim Bilbao son los museos españoles que más crecen en visitantes" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/19/caixaforum-235x132.jpg" itemprop="contentUrl" alt="CaixaForum y Guggenheim Bilbao, los museos españoles que más crecen en visitantes en los últimos tres años (Foto: EP/Archivo)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">CaixaForum y Guggenheim Bilbao son los museos españoles que más crecen en visitantes</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Europa Press</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">En términos generales, el número de visitantes a los siete principales museos del país -Reina Sofía, Prado, Thyssen-Bornemisza, Guggenheim, CaixaForum, Picasso y los museos estatales- se ha incrementado un...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4133572" class="post-home-4 post-4133572 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-empleo-tag tag-imserso tag-jubilados tag-sector-turismo tag-sector-turistico tag-turismo tag-viajes">
+                    <a href="https://okdiario.com/economia/programa-del-imserso-sigue-bloqueado-casi-millon-viajes-mas-80-000-empleos-aire-4133572" title="El programa del Imserso sigue &#8216;bloqueado&#8217;: casi un millón de viajes y más de 80.000 empleos en el aire" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/18/istock-1080335520-1-235x132.jpg" itemprop="contentUrl" alt="El programa del Imserso permanece bloqueado (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El programa del Imserso sigue &#8216;bloqueado&#8217;: casi un millón de viajes y más de 80.000 empleos en el aire</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La decisión del tribunal aún se desconoce, pero fuentes del sector apuntan que hay optimismo en la industria por ganar el recurso que obligaría al Ministerio de Sanidad a...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4133359" class="post-home-4 post-4133359 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-champions-league tag-sector-turismo tag-sector-turistico">
+                    <a href="https://okdiario.com/economia/champions-dispara-turismo-reventa-madrid-hasta-25-000-euros-hotel-entradas-4133359" title="La Champions dispara el turismo y la reventa en Madrid: hasta 25.000 euros por hotel y entradas" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/07/wanda-metropolitano-235x132.jpg" itemprop="contentUrl" alt="El Estadio Metropolitano, escenario de la final de la Champions League (Atleticodemadrid.com)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">La Champions dispara el turismo y la reventa en Madrid: hasta 25.000 euros por hotel y entradas</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Faltan dos semanas para el partido más esperado entre el Liverpool y el Tottenham, que se celebrará en el estadio Wanda Metropolitano el próximo 1 de junio, y los...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4130217" class="post-home-4 post-4130217 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-melia tag-melia-hotels-international">
+                    <a href="https://okdiario.com/economia/melia-atlantico-isla-canela-disfruta-tus-vacaciones-playas-del-oceano-atlantico-4130217" title="Meliá Atlántico-Isla Canela: disfruta de tus vacaciones en las playas del Océano Atlántico" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/17/126meliaatlantico-islacanela-junior_suite_ocean_views_the_level_bedroom-235x132.jpg" itemprop="contentUrl" alt="Suite Ocean en Meliá Atlántico Isla Canela (Foto: Meliá)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Meliá Atlántico-Isla Canela: disfruta de tus vacaciones en las playas del Océano Atlántico</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Meliá Hotels International</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Si aún no conoces Huelva, no lo dudes, puede ser tu destino ideal para estas vacaciones. En el municipio de Ayamonte, encontramos Isla Canela, una de sus zonas costeras...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4124729" class="post-home-4 post-4124729 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-melia tag-melia-hotels-international">
+                    <a href="https://okdiario.com/economia/melia-villaitana-renueva-ofrecer-mejor-experiencia-vacacional-costa-blanca-4124729" title="Meliá Villaitana se renueva para ofrecer la mejor experiencia vacacional de la Costa Blanca" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2018/11/22/005meliavillaitana-general-235x132.jpg" itemprop="contentUrl" alt="Meliá Villaitana, el hotel para los amantes del golf (Foto: Meliá)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Meliá Villaitana se renueva para ofrecer la mejor experiencia vacacional de la Costa Blanca</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El hotel Meliá Villaitana, ubicado en la Costa Blanca y reconocido por su pintoresco diseño en forma de pueblo mediterráneo, acaba de realizar una completa reforma en sus instalaciones,...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4111650" class="post-home-4 post-4111650 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-imserso tag-ministerio-de-sanidad tag-sector-turismo tag-sector-turistico tag-turismo tag-viajes">
+                    <a href="https://okdiario.com/economia/imserso-da-ventaja-hoteles-4-estrellas-excluye-categorias-inferiores-4111650" title="El Imserso da ventaja a los hoteles de 4 estrellas y &#8216;excluye&#8217; a los de categorías inferiores" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/13/istock-638698498-235x132.jpg" itemprop="contentUrl" alt="Turistas caminando por Salamanca (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El Imserso da ventaja a los hoteles de 4 estrellas y &#8216;excluye&#8217; a los de categorías inferiores</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Los nuevos pliegos priman la candidatura que oferte un mayor número de plazas en establecimientos de 4 estrellas, según confirman fuentes de la patronal hotelera HOSBEC, que representa las...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4101603" class="post-home-4 post-4101603 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-imserso tag-ministerio-de-sanidad tag-sector-turismo tag-sector-turistico tag-turismo">
+                    <a href="https://okdiario.com/economia/conflicto-viajes-del-imserso-pone-peligro-80-000-empleos-4101603" title="El conflicto en los viajes del Imserso pone en peligro 80.000 empleos" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/10/istock-477368390-235x132.jpg" itemprop="contentUrl" alt="Turistas disfrutan en una playa de Cataluña (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El conflicto en los viajes del Imserso pone en peligro 80.000 empleos</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El programa del Imserso está en el aire tras la impugnación de los hoteleros españoles. La Confederación Española de Hoteles y Alojamientos Turísticos (CEHAT) recurrió los pliegos del Imserso...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4107328" class="post-home-4 post-4107328 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-andalucia tag-hoteles tag-marbella tag-puerta-del-sol tag-turismo">
+                    <a href="https://okdiario.com/economia/marbella-four-seasons-espera-que-ayuntamiento-apruebe-plan-parcial-pedir-licencia-obras-4107328" title="Marbella: Four Seasons espera que el ayuntamiento apruebe el plan parcial para pedir licencia de obras" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/12/four-seasons-marbella-susana-diaz-235x132.jpg" itemprop="contentUrl" alt="Primera piedra del Hotel Four Seasons de Marbella, con presencia de Susana Díaz">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Marbella: Four Seasons espera que el ayuntamiento apruebe el plan parcial para pedir licencia de obras</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Los promotores del hotel de lujo Four Seasons and Private Residences en Marbella (Málaga), que contará con un hotel y residencias privadas de gran lujo en primera línea de...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4101198" class="post-home-4 post-4101198 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-londres tag-melia tag-melia-hotels-international">
+                    <a href="https://okdiario.com/economia/london-experiencia-llena-arte-musica-diseno-londres-4101198" title="ME London, una experiencia llena de arte, música y diseño en Londres" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/10/129amelondon-personality_suite_bedroom-235x132.jpg" itemprop="contentUrl" alt="ME London (Foto: Meliá)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">ME London, una experiencia llena de arte, música y diseño en Londres</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Meliá Hotels International</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">En una de las ciudades más cosmopolitas de Europa encontramos un hotel que combina arte, cultura y un estilo de vida moderno con una experiencia de lujo diferente. Ubicado...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4086080" class="post-home-4 post-4086080 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-sector-hotelero">
+                    <a href="https://okdiario.com/economia/sector-hotelero-recurrira-pliegos-del-imserso-tribunal-economico-administrativo-4086080" title="El sector hotelero recurrirá los pliegos del Imserso ante el Tribunal Económico Administrativo" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/07/istock-964158218-235x132.jpg" itemprop="contentUrl" alt="Beneficiarios del programa del Imserso (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El sector hotelero recurrirá los pliegos del Imserso ante el Tribunal Económico Administrativo</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El sector hotelero ha tomado esta decisión tras mantener una reunión de urgencia el pasado lunes, tal como adelantó OKDIARIO. La patronal se reunió con las principales organizaciones que...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4066455" class="post-home-4 post-4066455 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo category-video tag-islas-canarias tag-melia tag-melia-hotels-international tag-turismo">
+                    <a href="https://okdiario.com/economia/islas-canarias-paraiso-tropical-cualquier-epoca-del-ano-4066455" title="Las Islas Canarias, un paraíso tropical en cualquier época del año" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/03/melia-play-1-235x132.jpg" itemprop="contentUrl" alt="melia-play (1)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Las Islas Canarias, un paraíso tropical en cualquier época del año</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Las Islas Canarias son un paraíso tropical frente a la costa africana. Este ‘continente en miniatura’ es uno de los destinos más cotizados de nuestro país gracias a su...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4066123" class="post-home-4 post-4066123 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-melia tag-melia-hotels-international tag-paris">
+                    <a href="https://okdiario.com/economia/innside-paris-charles-gaulle-disfruta-tu-paso-paris-4066123" title="INNSiDE Paris Charles de Gaulle: disfruta de tu paso por París" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/05/03/109binnsideparischarlesdegaulle-innside_loft_livingroom-235x132.jpg" itemprop="contentUrl" alt="Innside Paris Charles De Gaulle (Foto: Meliá)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">INNSiDE Paris Charles de Gaulle: disfruta de tu paso por París</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Meliá Hotels International</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Junto a uno de los aeropuertos con mayor actividad de Europa nos encontramos el recientemente inaugurado hotel INNSiDE Paris Charles de Gaulle. Un concepto de hotel diferente en el...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4056760" class="post-home-4 post-4056760 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-ryanair tag-sector-turismo tag-sector-turistico">
+                    <a href="https://okdiario.com/economia/empleados-ryanair-desesperados-cobrar-nos-pagan-plazos-aun-nos-falta-dinero-4056760" title="Empleados de Ryanair desesperados por cobrar: &#171;Nos pagan a plazos y aún nos falta dinero&#187;" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/30/istock-901500840-235x132.jpg" itemprop="contentUrl" alt="Trabajadores de Ryanair (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Empleados de Ryanair desesperados por cobrar: &#171;Nos pagan a plazos y aún nos falta dinero&#187;</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Casi 300 tripulantes de Ryanair en España siguen sin percibir su salario completo: una quinta parte de la plantilla de la compañía aérea está cobrando a plazos y a...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4054825" class="post-home-4 post-4054825 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-globalia tag-grupo-globalia tag-halcon-viajes tag-tarjeta-credito">
+                    <a href="https://okdiario.com/economia/halcon-viajes-viajes-ecuador-lanzan-propia-tarjeta-credito-mano-bankinter-consumer-finance-4054825" title="Halcón Viajes y Viajes Ecuador lanzan su propia tarjeta de crédito de la mano de Bankinter Consumer Finance" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2016/07/07/oficina-halcon-e1485263598386-235x132.jpg" itemprop="contentUrl" alt="Oficina de Halcón Viajes en Madrid (Foto: GLOBALIA).">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Halcón Viajes y Viajes Ecuador lanzan su propia tarjeta de crédito de la mano de Bankinter Consumer Finance</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Bankinter Consumer Finance, la financiera de consumo de Bankinter, y Globalia, el primer grupo turístico español, refuerzan su estrategia de colaboración con el lanzamiento de dos nuevas tarjetas de...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4025762" class="post-home-4 post-4025762 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-galicia tag-ribeira-sacra tag-sector-turismo tag-sector-turistico tag-turismo">
+                    <a href="https://okdiario.com/economia/descubre-ribeira-sacra-nueva-propuesta-espanola-patrimonio-mundial-4025762" title="Descubre la Ribeira Sacra, la nueva propuesta española a Patrimonio Mundial" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/24/ribeira-sacra-canon_-235x132.jpg" itemprop="contentUrl" alt="Ribeira Sacra">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Descubre la Ribeira Sacra, la nueva propuesta española a Patrimonio Mundial</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">En el sur de la provincia de Lugo y el norte de la de Orense (Galicia), bañada por el curso fluvial de los ríos Miño, Sil y Cabe se...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4044578" class="post-home-4 post-4044578 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-hoteles tag-imserso tag-sector-hotelero tag-sector-turismo tag-sector-turistico tag-turismo">
+                    <a href="https://okdiario.com/economia/hoteleros-reunen-este-lunes-urgencia-analizar-impugnacion-pliegos-del-imserso-4044578" title="Los hoteleros se reúnen este lunes de urgencia para analizar la impugnación de los pliegos del Imserso" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/28/istock-1126922148-235x132.jpg" itemprop="contentUrl" alt="Turistas del Imserso bailan en Barcelona (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Los hoteleros se reúnen este lunes de urgencia para analizar la impugnación de los pliegos del Imserso</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Tras anunciar el pasado viernes su disconformidad con el diseño del programa, aprobado el pasado 12 de abril, y su intención de impugnar los pliegos por &#171;lesionar gravemente sus...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4037704" class="post-home-4 post-4037704 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-imserso tag-senior">
+                    <a href="https://okdiario.com/economia/indignacion-hoteleros-pliegos-del-imserso-sanchez-beneficio-nulo-4037704" title="Indignación entre los hoteleros por los pliegos del Imserso de Sánchez: &#171;El beneficio es nulo&#187;" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/26/istock-89343913-235x132.jpg" itemprop="contentUrl" alt="Viaje del Imserso (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Indignación entre los hoteleros por los pliegos del Imserso de Sánchez: &#171;El beneficio es nulo&#187;</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">&#171;Sentimos un profundo desengaño, después de intensas reuniones en las que hemos planteado nuestras peticiones argumentadas. El problema es el diseño del programa ya que mantenemos los precios, con...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4029047" class="post-home-4 post-4029047 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-londres tag-melia tag-melia-hotels-international tag-turismo">
+                    <a href="https://okdiario.com/economia/hotel-london-kensignton-descubre-londres-mejores-zonas-4029047" title="Hotel London Kensington: descubre Londres en una de las mejores zonas" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/24/107bhotellondonkensington-premium_room-235x132.jpg" itemprop="contentUrl" alt="Hotel London Kensington (Foto: Meliá)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Hotel London Kensington: descubre Londres en una de las mejores zonas</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Meliá Hotels International</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">El Hotel London Kensington Managed by Meliá es una opción perfecta si lo que te interesa es una escapada para explorar y descubrir la ciudad. Se encuentran en el...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4021264" class="post-home-4 post-4021264 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-hoteles tag-puente-mayo tag-vacaciones">
+                    <a href="https://okdiario.com/economia/puente-mayo-pasa-madrid-mejores-planes-hotel-miguel-angel-by-bluebay-4021264" title="El puente de mayo se pasa en Madrid: los mejores planes en el Hotel Miguel Ángel by Bluebay" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/23/istock-970024158-235x132.jpg" itemprop="contentUrl" alt="Turistas en la Plaza Mayor de Madrid (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">El puente de mayo se pasa en Madrid: los mejores planes en el Hotel Miguel Ángel by Bluebay</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Si aún no terminas de decidirte, la escapada perfecta es a la capital y para organizar todos los planes en tus días libres, el Hotel Miguel Ángel by Bluebay...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4001460" class="post-home-4 post-4001460 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-hoteles">
+                    <a href="https://okdiario.com/economia/palladium-hotel-group-mejor-cadena-hotelera-globe-travel-awards-4001460" title="Palladium Hotel Group, mejor cadena hotelera en los &#8216;Globe Travel Awards&#8217;" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/17/palladium-gp-cancun3169h-235x132.jpg" itemprop="contentUrl" alt="Grand Palladium Costa Mujeres Resort &#038; Spa &#8211; Cancún, México">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">Palladium Hotel Group, mejor cadena hotelera en los &#8216;Globe Travel Awards&#8217;</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>OKDIARIO</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Palladium Hotel Group consolida su liderazgo en el sector hotelero. La cadena ibicenca demuestra en los Globe Travel Awards que sigue siendo una de las cadenas hoteleras más importantes...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4005297" class="post-home-4 post-4005297 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-brexit tag-brexit-duro tag-sector-turismo tag-sector-turistico tag-turismo">
+                    <a href="https://okdiario.com/economia/espana-pone-guapa-fidelizar-turista-britanico-brexit-4005297" title="España &#8216;se pone guapa&#8217; para fidelizar al turista británico ante el &#8216;Brexit&#8217;" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/18/istock-957856596-235x132.jpg" itemprop="contentUrl" alt="Ciudadanos por la calle">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">España &#8216;se pone guapa&#8217; para fidelizar al turista británico ante el &#8216;Brexit&#8217;</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">La última en hacerlo ha sido Cataluña: la Generalitat ha invertido un millón de euros en crear una campaña publicitaria para promocionar la región como un destino innovador, moderno...</p>
+				</article><!-- #post-## -->
+
+			
+				<article id="post-4001254" class="post-home-4 post-4001254 post type-post status-publish format-standard has-post-thumbnail category-economia category-turismo tag-sector-turismo tag-sector-turistico tag-semana-santa tag-turismo tag-turistas-extranjeros tag-turistas-internacionales">
+                    <a href="https://okdiario.com/economia/caida-demanda-extranjera-semana-santa-pone-alerta-turismo-cara-verano-4001254" title="La caída de la demanda extranjera en Semana Santa pone en alerta al turismo de cara al verano" class="article-link" rel="bookmark">
+                        <figure class="article-img">
+                            <img src="https://okdiario.com/img/2019/04/17/istock-806996606-235x132.jpg" itemprop="contentUrl" alt="Turistas paseando por la Plaza de Cataluña, Barcelona (Foto: iStock)">
+                        </figure>
+                        <header class="article-header">
+                            <h2 class="article-title">La caída de la demanda extranjera en Semana Santa pone en alerta al turismo de cara al verano</h2>
+                        </header>
+                    </a>
+
+                    					<footer class="article-footer">
+						<ul>
+							<li class="article-author"><span>Carolina Mundi</span></li>
+<!--							<li class="article-datetime"><time datetime="--><!-- --><!--"><span class="article-date">--><!--</span> <span class="article-time">--><!--</span></time></li>-->
+                                						</ul>
+					 </footer>
+					 <p class="article-lead">Los españoles viajarán más esta Semana Santa, fundamentalmente por una menor presión de la demanda turística internacional, que favorece el acceso del mercado nacional a algunos destinos. Las reservas...</p>
+				</article><!-- #post-## -->
+
+			
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'><span class="meta-nav screen-reader-text">Pág. </span>1</span>
+<a class='page-numbers' href='https://okdiario.com/economia/turismo/page/2'><span class="meta-nav screen-reader-text">Pág. </span>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://okdiario.com/economia/turismo/page/12'><span class="meta-nav screen-reader-text">Pág. </span>12</a>
+<a class="next page-numbers" href="https://okdiario.com/economia/turismo/page/2">Siguiente</a></div>
+	</nav>	</section>
+		<section class="aux-col">
+			<aside class="ad-block">
+				<div class="publicidad" id="adAfterP1">
+					<!-- /95562950/okdiario.com/seccion_right1 -->
+					<div id="right1">
+						<script>
+							googletag.cmd.push(function() { googletag.display("right1"); });
+						</script>
+					</div>
+				</div>
+			</aside>
+			
+
+			<!--START Widget Últimas-Noticias-->
+			     <section id="last-news" class="widget">
+        <h3 class="widget-title">Últimas noticias</h3>
+
+        <ul>                <li>
+                    <a href="https://okdiario.com/espana/primera-reunion-ayuso-monasterio-sido-clima-entendimiento-4216537" rel="bookmark" class="rel-link" title="La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;">
+                        <img src="https://okdiario.com/img/2019/06/06/reunion-entre-rocio-monasterio-e-isabel-diaz-ayuso.-foto.-pp-1-143x89.jpg"
+                             alt="La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;"/>                    </a>
+                    <a href="https://okdiario.com/espana/primera-reunion-ayuso-monasterio-sido-clima-entendimiento-4216537" rel="bookmark" title="La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;">La primera reunión de Ayuso y Monasterio ha sido en un &#171;clima de entendimiento&#187;</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/deportes/holanda-impone-inglaterra-prorroga-cita-portugal-final-uefa-nations-league-4216254" rel="bookmark" class="rel-link" title="Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League">
+                        <img src="https://okdiario.com/img/2019/06/06/fdee5d1d-d561-42d6-bc59-40b1629e1538-143x89.jpeg"
+                             alt="Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League"/>                    </a>
+                    <a href="https://okdiario.com/deportes/holanda-impone-inglaterra-prorroga-cita-portugal-final-uefa-nations-league-4216254" rel="bookmark" title="Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League">Holanda se impone a Inglaterra en la prórroga y se cita con Portugal en la final de la UEFA Nations League</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/internacional/trump-eleva-sus-criticas-contra-iran-lo-esta-haciendo-mal-como-nacion-4216522" rel="bookmark" class="rel-link" title="Trump eleva sus críticas contra Irán: &#171;Lo está haciendo mal como nación&#187;">
+                        <img src="https://okdiario.com/img/2018/12/21/conoce-la-nueva-especie-de-anfibio-ciego-bautizada-como-donald-trump-143x89.jpg"
+                             alt="Donald Trump"/>                    </a>
+                    <a href="https://okdiario.com/internacional/trump-eleva-sus-criticas-contra-iran-lo-esta-haciendo-mal-como-nacion-4216522" rel="bookmark" title="Trump eleva sus críticas contra Irán: &#171;Lo está haciendo mal como nación&#187;">Trump eleva sus críticas contra Irán: &#171;Lo está haciendo mal como nación&#187;</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/espana/separatistas-convocan-manifestaciones-favor-golpistas-ultimo-dia-del-juicio-del-1-o-4216499" rel="bookmark" class="rel-link" title="Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O">
+                        <img src="https://okdiario.com/img/2019/05/17/procesados-en-el-tribunal-supremo-por-el-1-o---ep-min-e1558109901851-143x89.jpeg"
+                             alt="Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O"/>                    </a>
+                    <a href="https://okdiario.com/espana/separatistas-convocan-manifestaciones-favor-golpistas-ultimo-dia-del-juicio-del-1-o-4216499" rel="bookmark" title="Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O">Los separatistas convocan manifestaciones en favor de los golpistas el último día del juicio del 1-O</a>
+                </li>
+                            <li>
+                    <a href="https://okdiario.com/internacional/policia-irani-arresta-dos-diplomaticos-europeos-incumplir-sharia-4216418" rel="bookmark" class="rel-link" title="La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía">
+                        <img src="https://okdiario.com/img/2019/06/06/captura-de-pantalla-2019-06-06-a-las-22.55.25-min-143x89.png"
+                             alt="La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía"/>                    </a>
+                    <a href="https://okdiario.com/internacional/policia-irani-arresta-dos-diplomaticos-europeos-incumplir-sharia-4216418" rel="bookmark" title="La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía">La policía iraní arresta a dos diplomáticos europeos por incumplir la Sharía</a>
+                </li>
+                    </ul>
+    </section>
+     
+			<!--END Widget Últimas-Noticias-->
+
+			<!--Mostramos right2-->
+			
+				<aside class="ad-block">
+					<!-- Banner publi right2 -->
+					<div class="publicidad" id="adAfterP2">
+						<!-- /95562950/okdiario.com/seccion_right2 -->
+						<div id="right2">
+							<script>
+							googletag.cmd.push(function() { googletag.display("right2"); });
+							</script>
+						</div>
+					</div>
+				</aside>			</section>
+
+			<aside class="mega">
+			<!-- /95562950/okdiario.com/portada_bottom -->
+			<div id="bottom" style="margin: 0 auto;">
+				<script>
+					googletag.cmd.push(function() { googletag.display("bottom"); });
+				</script>
+			</div>
+		</aside>
+
+		<aside class="ad-block">
+			<!-- Banner publi seccion_right3 -->
+			<div class="publicidad" id="adAfterP7">
+				<!-- /95562950/okdiario.com/seccion_right3 -->
+				<div id='seccion_right3'>
+					<script>
+						googletag.cmd.push(function() { googletag.display('right3'); });
+					</script>
+				</div>
+			</div>
+		</aside>
+
+		<aside class="ad-block">
+			<!-- Banner publi seccion_right3 -->
+			<div class="publicidad" id="adAfterP7">
+				<!-- /95562950/okdiario.com/seccion_right3 -->
+				<div id='seccion_right3'>
+					<script>
+						googletag.cmd.push(function() { googletag.display('right3'); });
+					</script>
+				</div>
+			</div>
+		</aside>
+
+	</section>
+	<aside class="mega">
+		<!-- /95562950/okdiario.com/portada_bottom -->
+		<div id='bottom' style="margin: 0 auto;">
+			<script>
+				googletag.cmd.push(function() { googletag.display('bottom'); });
+			</script>
+		</div>
+	</aside>
+</div>
+
+<aside class="outofpageHome">
+	<!-- /95562950/okdiario.com/seccion_x01 -->
+	<div id='x01' style="margin: 0 auto;">
+		<script>
+			googletag.cmd.push(function() { googletag.display('x01'); });
+		</script>
+	</div>
+</aside>
+
+
+<footer id="footerPage">
+	<div id="toTop">
+		<div class="toTopContainer"><i class="fa fa-arrow-up"></i><span class="toTopText">Ir Arriba </span></div>
+	</div>
+	<ul>
+		<li>DOS MIL PALABRAS S.L. 2018. Todos los derechos reservados</li>
+		<li><a href="https://okdiario.com/aviso-legal">Aviso Legal</a></li>
+		<li><a href="https://okdiario.com/politica-privacidad">Política de Privacidad</a></li>
+		<li><a href="https://okdiario.com/politica-cookies">Política de Cookies</a></li>
+		<li><a href="https://okdiario.com/tags">Temas</a></li>
+		<li><a href="https://okdiario.com/feed">RSS</a></li>
+		<li>Auditado por <i>ComScore</i></li>
+	</ul>
+</footer>
+  <!-- Catfish START -->
+    <div id="okd-catfish" class="catfish-start">
+      <div id="container-catfish" class="catfish-space">
+        <button id="catfish-btn"></button>
+      </div>
+    </div>
+  <!-- Catfish END -->
+
+
+<script src='https://okdiario.com/web/themes/v9/lib/navigation.js?v=20190328&v=35' type='text/javascript' ></script>
+
+
+<script type='text/javascript' src='https://okdiario.com/web/themes/v9/js/jquery.cookie.js'></script>
+<script type='text/javascript' src='https://okdiario.com/wp-includes/js/wp-embed.min.js'></script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"UB63p1IWx81070", domain:"okdiario.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=UB63p1IWx81070" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+	<script>
+		showPubli();
+
+		function showPubli() {
+			var windowWidth = $(window).width();
+
+			if (windowWidth < 768) {
+				// Banner publi intext1 mobile
+				$('article').first().after($('<aside class="envoltorio-intext1"><div id="intext1" style="margin: 0 auto;"></div></aside>'));
+				// Banner publi right1 mobile
+				$('article').first().after($('#adAfterP1'));
+				if ($('article').length > 2) {
+					// Banner publi intext2 mobile
+					$('article:eq(2)').after($('<aside class="envoltorio-intext2"><div id="intext2" style="margin: 0 auto;"></div></aside>'));
+					// Banner publi right2 mobile
+					$('article:eq(2)').after($('#adAfterP2'));
+          //Banner publi right3 data-mobile
+          $('article:eq(6)').after($('#adAfterP7'));
+				}
+
+			}
+			else {
+				if ($('article').length > 2) {
+					// Banner publi intext1 desktop
+					$('article:eq(2)').after($('<aside class="envoltorio-intext1"><div id="intext1" style="margin: 0 auto;"></div></aside>'));
+				}
+				if ($('article').length > 4) {
+					// Banner publi intext2 desktop
+					$('article:eq(4)').after($('<aside class="envoltorio-intext2"><div id="intext2" style="margin: 0 auto;"></div></aside>'));
+				}
+			}
+		}
+	</script>
+
+
+
+
+
+
+<script async src="//platform.twitter.com/widgets.js" data-vendor="c:twitter" charset="utf-8"></script>
+
+<script type='text/javascript'>
+  window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view'});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/1151813/tfa.js',
+  'tb_tfa_script');
+</script>
+<noscript>
+  <img src='//trc.taboola.com/1151813/log/3/unip?en=page_view'
+      width='0' height='0' style='display:none'/>
+</noscript>
+
+	<script>
+		$(document).ready(function() {
+		sticky_banners("right2",1);
+		});
+	</script>
+
+    
+<!-- Begin Pixel Zeotap -->
+<iframe style="display:none" src="https://spl.zeotap.com/?zdid=86&env=mWeb&eventType=pageview" ></iframe>
+<!-- End Pixel Zeotap -->
+
+<!-- Chat Facebook - START -->
+<!-- Chat Facebook - END -->
+
+<!-- Outbrain pixel START -->
+<script data-obct type="text/javascript">
+
+    /** DO NOT MODIFY THIS CODE**/
+
+    !function(_window, _document) {
+
+        var OB_ADV_ID='00252a028935bccee4fd6eb1493e8c215a';
+
+        if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+
+        var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+
+    obApi('track', 'PAGE_VIEW');
+
+</script>
+<!-- Outbrain pixel END -->
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Caching de base de datos 10/151 consultas en 0.195 segundos usando redis (Solicitud de ancho modification query)
+
+Served from: okdiario.com @ 2019-06-07 02:01:35 by W3 Total Cache
+-->

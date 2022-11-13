@@ -1,0 +1,17 @@
+{% load static %}
+<html>
+	<head>
+		<title>Poblar Whoosh - OkDiario</title>
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="{% static 'css/web.css' %}"
+	</head>
+	<body>
+		{% include 'header.html' %}
+        
+        <script>
+            document.getElementById("reemplazable").innerHTML = "Índices de Whoosh cargados correctamente";
+            document.getElementById("reemplazable2").innerHTML = "";
+        </script>
+	</body>
+</html>

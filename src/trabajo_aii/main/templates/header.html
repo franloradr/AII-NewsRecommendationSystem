@@ -1,0 +1,143 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>Sistema de recomendación de noticias</title>
+        <meta charset="utf-8"> 
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+		<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+        <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+		<link rel="stylesheet" href="{% static 'css/web.css' %}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        
+        
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+        <!-- Popper JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+        <!-- Latest compiled JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        
+        
+	</head>	
+    
+    <body
+		<div class="topbar"></div>
+        
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <a class="navbar-brand" href="/">
+            <img src="https://okdiario.com/img/logo-okdiario.png" width="160" height="30" alt="OkDiario">
+          </a>
+          
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse justify-content-end"" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto text-center">
+              <li id="navPoblar" class="nav-item">
+                <a  class="nav-link" href="/populate" style="font-size:1.5rem!important; padding-left: 30px">Poblar base de datos<span class="sr-only">(current)</span></a>
+              </li>
+              <li id="navPoblarWhoosh" class="nav-item">
+                <a class="nav-link" href="/populateIndex" style="font-size:1.5rem!important; padding-left: 30px">Poblar índice de Whoosh</a>
+              </li>
+              <li id="navBuscar" class="nav-item">
+                <a class="nav-link" href="/searcher" style="font-size:1.5rem!important; padding-left: 30px">Buscador basado en Whoosh</a>
+              </li>
+              <li id="navRecomendar" class="nav-item">
+                <a class="nav-link" href="/recomendacion" style="font-size:1.5rem!important; padding-left: 30px">Recomendador</a>
+              </li>
+              
+              <li id="vistaAdmin" class="nav-item">
+                <a class="nav-link" href="/admin" style="font-size:1.5rem!important; padding-left: 30px">Vista de administrador</a>
+              </li>
+              <li id="navCerrarSesion" class="nav-item">
+                <a id="cerrarSesion" class="nav-link" href="/accounts/logout" style="font-size:1.5rem!important; padding-left: 30px">Cerrar sesión</a>
+              </li>              
+            </ul>
+          </div>
+        </nav>        
+        
+        <header class="masthead text-center text-white">
+            <div class="masthead-content">
+              <div class="container">
+                <img src="https://okdiario.com/img/logo-okdiario.png" alt="OkDiario">
+                <h1 id="reemplazable" class="masthead-heading mb-0">Buscador y recomendador de noticias</h1>
+                <h4 id="reemplazable2" class="masthead-subheading mb-0">Encuentra noticias que te interesen rápidamente</h4>
+                <a id="buscarBut" href="/searcher" class="btn btn-primary btn-xl rounded-pill mt-5">Buscar noticias</a>
+                <a id="recomendarBut" href="/recomendacion" class="btn btn-primary btn-xl rounded-pill mt-5">Recomendar noticias</a>
+              </div>
+            </div>
+            <div class="bg-circle-1 bg-circle"></div>
+            <div class="bg-circle-2 bg-circle"></div>
+            <div class="bg-circle-3 bg-circle"></div>
+            <div class="bg-circle-4 bg-circle"></div>
+        </header>
+        
+        <div>
+            <p id="toolsDesc" class="tools_description">Esta página está realizada con las siguientes herramientas</p>
+        </div>
+        
+        <div id="columnasCartas" class="card-columns">
+        <div class="card" style="width: 30rem; cursor: pointer;" onclick="window.location='https://www.crummy.com/software/BeautifulSoup/bs4/doc/';">
+          <img class="card-img-top" src="https://bobbelderbos.com/assets/beautifulsoup.png" alt="BeautifulSoup" width="298" height="135">
+          <div class="card-body">
+            <p class="card-text">BeautifulSoup se utiliza para recopilar información en archivos HTML, haciendo uso de sus etiquetas.</p>
+          </div>
+        </div>        
+        
+        <div class="card" style="width: 30rem; cursor: pointer;" onclick="window.location='https://whoosh.readthedocs.io/en/latest/intro.html';">
+          <img class="card-img-top" src="https://staff.fnwi.uva.nl/m.mazloom/CollectieveIntelligentie/NoteBooks/python-course/images/whoosh_logo.png" alt="Whoosh" width="298" height="115">
+          <div class="card-body">
+            <p class="card-text">Whoosh ha sido utilizado para realizar la indexación y búsqueda de noticias de manera eficiente.</p>
+          </div>
+        </div> 
+        
+        <div class="card" style="width: 30rem; cursor: pointer;" onclick="window.location='https://www.djangoproject.com/';">
+          <img class="card-img-top" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django">
+          <div class="card-body">
+            <p class="card-text">Django se utiliza para la construcción de la web, de manera que se puedan realizar las búsquedas mediante una interfaz gráfica.</p>
+          </div>
+        </div> 
+        </div>
+        
+        {% if request.user.is_superuser %}
+            <script>
+                document.getElementById("navBuscar").style.display = "none";
+                document.getElementById("navRecomendar").style.display = "none";
+                document.getElementById("buscarBut").style.display = "none";
+                document.getElementById("recomendarBut").style.display = "none";
+            </script>        
+        {% else %}
+            <script>
+                document.getElementById("vistaAdmin").style.display = "none";
+                document.getElementById("navPoblar").style.display = "none";
+                document.getElementById("navPoblarWhoosh").style.display = "none";
+            </script>        
+        {% endif %}
+                
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>    
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        
+        
+	</body>
+    
+
+	
+	
+</html>

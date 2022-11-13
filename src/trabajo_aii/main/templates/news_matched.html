@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<title>Buscador de noticias - OkDiario</title>
+	</head>
+	<body>
+		{% include 'header.html' %}
+	<section style="margin-left: 85px;">
+    <h1 class="noticiasEncontradas">Noticias encontradas</h1>
+			{% for item in lista %}
+                <div class="col-lg-6 col-md-2">
+                    
+                    <div class="card" style="width: 60rem; height: 40rem;">
+                      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdus9dvcPmiAFedPXblZcXiX52ma-kPxmUIypyd45lpD2-2Fn4" alt="Noticia" width="298" height="135">
+                      <div class="card-body">
+                        <p class="card-text">Seccion: {{item.seccion}}&#10</p>
+                        <p class="card-text">Autor: {{item.autor}}&#10</p>
+                        <p class="card-text"><a href={{item.link}}>Ir a la noticia original</a>&#10</p>
+                        <p class="card-text">Descripcion: {{item.descripcion}}&#10</p>
+                        <p class="card-text btn btn-primary btn-xl rounded-pill mt-5"> <a class="enlaceLeerMas" href='/noticia/{{item.noticiaId}}' style="color:white">Leer más</a>&#10</p>
+                      </div>
+                    </div>
+                 </div>
+			{% endfor %}
+	</section>
+    
+        <script>
+            document.getElementById("reemplazable").innerHTML = "Buscador basado en Whoosh";
+            document.getElementById("reemplazable2").innerHTML = "Encuentre noticias rápidamente";
+            document.getElementById("toolsDesc").style.display = "none";
+            document.getElementById("columnasCartas").style.display = "none";
+        </script>
+        
+	</body>
+</html>
