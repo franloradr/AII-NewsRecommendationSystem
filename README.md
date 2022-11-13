@@ -1,5 +1,4 @@
 # AII-NewsRecommendationSystem
-News Recommendation System
 
 News web application developed using Django and Bootstrap which uses BeautifulSoap as third-party web content scrapper, Whoosh as indexed search engine and a content recommendation system based on Categories/Authors reading frecuency.
 
@@ -10,7 +9,7 @@ News web application developed using Django and Bootstrap which uses BeautifulSo
 # Files
  - doc --> Paper on pdf format and
  - pla --> Plannification of the project
- - pre --> power point presentation
+ - pre --> Power point presentation
  - src --> The source code
 
 # Captures
