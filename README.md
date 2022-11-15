@@ -4,7 +4,7 @@ News web application developed using Django and Bootstrap that uses BeautifulSoa
 
 # Authors
  - Daniel Moreno Soto
- - Francisco José Alonso Parejo
+ - Francisco Jesús Belmonte Pintre
 
 # Files
  - doc --> Paper on pdf format
